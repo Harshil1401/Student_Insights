@@ -1,0 +1,92 @@
+{% extends "base2.html" %}
+
+{% block content %}
+<section class="container" style="padding: 120px 0;">
+    <div style="max-width: 700px; margin: auto; background: var(--card); border-radius: var(--border-radius); padding: 2rem; box-shadow: var(--shadow-card);">
+        <h1 class="text-gradient" style="font-size: 2rem; font-weight: 700; margin-bottom: 1.5rem; text-align: center;">
+            Student Placement Prediction
+        </h1>
+
+        <!-- Corrected form action -->
+        <form action="{% url 'placement_predictor' %}" method="POST">
+            {% csrf_token %}
+
+            <!-- Display Django messages -->
+            {% if messages %}
+                <div style="padding: 1rem; margin-bottom: 1rem; border-radius: var(--border-radius); background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb;">
+                    {% for message in messages %}
+                        <p style="margin: 0;">{{ message }}</p>
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+                
+                <!-- Form fields (unchanged) -->
+                <div>
+                    <label for="ssc_p">10th Grade Percentage (ssc_p):</label>
+                    <input type="number" step="0.01" id="ssc_p" name="ssc_p" required class="input-field" placeholder="e.g., 85.5">
+                </div>
+                <div>
+                    <label for="hsc_p">12th Grade Percentage (hsc_p):</label>
+                    <input type="number" step="0.01" id="hsc_p" name="hsc_p" required class="input-field" placeholder="e.g., 91.0">
+                </div>
+                <div style="grid-column: 1 / -1;">
+                    <label for="degree_p">Degree Percentage (degree_p):</label>
+                    <input type="number" step="0.01" id="degree_p" name="degree_p" required class="input-field" placeholder="e.g., 72.8">
+                </div>
+                <div>
+                    <label for="gender">Gender:</label>
+                    <select id="gender" name="gender" required class="input-field">
+                        <option value="M">Male</option>
+                        <option value="F">Female</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="hsc_s">Higher Secondary Stream (hsc_s):</label>
+                    <select id="hsc_s" name="hsc_s" required class="input-field">
+                        <option value="Commerce">Commerce</option>
+                        <option value="Science">Science</option>
+                        <option value="Arts">Arts</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="degree_t">Undergraduate Degree (degree_t):</label>
+                    <select id="degree_t" name="degree_t" required class="input-field">
+                        <option value="Comm&Mgmt">Commerce & Management</option>
+                        <option value="Sci&Tech">Science & Technology</option>
+                        <option value="Others">Others</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="workex">Work Experience:</label>
+                    <select id="workex" name="workex" required class="input-field">
+                        <option value="No">No</option>
+                        <option value="Yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+
+            <input type="hidden" name="ssc_b" value="Central">
+            <input type="hidden" name="hsc_b" value="Central">
+
+            <button type="submit" class="btn btn-primary btn-large" style="width: 100%; margin-top: 1.5rem;">
+                Predict
+            </button>
+        </form>
+    </div>
+</section>
+
+<style>
+    .input-field {
+        width: 100%; padding: 10px; margin-top: 8px; background: var(--muted);
+        border: 1px solid var(--border); border-radius: var(--border-radius);
+        color: var(--foreground); font-size: 14px; transition: var(--transition);
+        box-sizing: border-box; 
+    }
+    .input-field:focus {
+        border-color: var(--primary); box-shadow: var(--shadow-glow); outline: none;
+    }
+    label { font-size: 14px; color: var(--foreground); }
+</style>
+{% endblock content %}

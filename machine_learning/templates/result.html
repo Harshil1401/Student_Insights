@@ -1,0 +1,35 @@
+{% extends "base2.html" %}
+
+{% block content %}
+<section class="container" style="padding: 120px 0;">
+    <div style="max-width: 700px; margin: auto; background: var(--card); border-radius: var(--border-radius); padding: 2rem; box-shadow: var(--shadow-card); text-align: center;">
+        
+        <h1 class="text-gradient" style="font-size: 2rem; font-weight: 700; margin-bottom: 1.5rem;">
+            Prediction Result
+        </h1>
+
+        <!-- Prediction Message -->
+        <div style="margin-top: 2rem; padding: 1.5rem; background: var(--muted); border-radius: var(--border-radius);">
+            <p style="font-size: 1.2rem; color: var(--primary); font-weight: 500; margin: 0;">{{ prediction }}</p>
+        </div>
+
+        <!-- Model Accuracy -->
+        <div style="margin-top: 2rem;">
+            <h3 style="font-weight: 600;">Model Accuracy</h3>
+            <p style="font-size: 1.1rem; color: var(--foreground);">{{ accuracy }}</p>
+        </div>
+
+        <!-- Comparison Graph -->
+        {% if graph_data %}
+        <div style="margin-top: 2rem;">
+            <h3 style="margin-bottom: 1rem; font-weight: 600;">Performance Comparison</h3>
+            <img src="data:image/png;base64,{{ graph_data }}" alt="Comparison Graph" style="max-width: 100%; border-radius: var(--border-radius);">
+        </div>
+        {% endif %}
+
+        <a href="{% url 'dashboard' %}" class="btn btn-primary btn-large" style="width: 100%; margin-top: 2.5rem;">
+            Make Another Prediction
+        </a>
+    </div>
+</section>
+{% endblock content %}

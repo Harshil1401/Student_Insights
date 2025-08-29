@@ -1,0 +1,1001 @@
+Gender,Branch,Average GPA,Backlogs,Attendance (%),Skills,Certifications,Internship Domain,Job Role,Company Tier,English Proficiency Score,Hackathons Participated,Interview Performance (1-10),Soft Skills Rating (1-10),Offer Type,CTC (LPA)
+Male,IT,7.38,0,79.03,"DL, Python",DataCamp DS,AI/ML,SDE,Tier 1,8.5,5,8.8,9.9,PPO,42.94
+Female,CSE,7.6,0,85.6,"HTML, ML, Python",Coursera ML,Cybersecurity,DevOps Engineer,Tier 2,5.1,2,7.7,8.9,On-campus,36.41
+Male,CSE,8.34,1,93.26,"C++, DL, Java, AWS",Coursera ML,AI/ML,DevOps Engineer,Tier 1,8.9,0,4.7,8.5,Off-campus,35.52
+Male,CSE,6.93,0,100.0,"DSA, Java",Google Cloud,IoT,Data Scientist,Tier 3,8.4,3,5.7,5.2,On-campus,23.88
+Male,CIVIL,7.76,1,89.6,"Python, HTML, C++, DL",AWS Certified,Web Dev,Business Analyst,Tier 2,6.4,5,9.8,9.3,PPO,37.37
+Female,MECH,7.22,1,76.11,"ML, C++, AWS, HTML",None,Cybersecurity,SDE,Tier 3,7.8,1,5.9,7.2,On-campus,27.23
+Male,CIVIL,7.52,2,98.8,"AWS, Java",Google Cloud,Web Dev,QA Engineer,Tier 3,5.5,0,4.6,9.3,On-campus,27.09
+Male,MECH,8.39,1,84.86,"HTML, DSA, ML",AWS Certified,AI/ML,Data Scientist,Tier 1,6.7,1,8.2,6.0,On-campus,40.8
+Male,CIVIL,7.63,1,79.14,"AWS, HTML",AWS Certified,Web Dev,SDE,Tier 3,8.6,4,8.4,4.4,Off-campus,30.35
+Female,CIVIL,7.53,0,77.44,"SQL, Python, HTML",Google Cloud,AI/ML,SDE,Tier 1,7.5,3,5.7,6.9,PPO,33.09
+Male,IT,6.55,0,90.85,"HTML, AWS",Google Cloud,AI/ML,DevOps Engineer,Tier 2,7.4,3,5.8,5.6,Off-campus,29.05
+Male,EEE,8.02,1,86.67,"Java, C++, Python, DL",DataCamp DS,Web Dev,Business Analyst,Tier 2,7.5,4,6.8,8.3,On-campus,38.11
+Male,CIVIL,7.95,1,87.42,"SQL, DL, Python",None,AI/ML,QA Engineer,Tier 3,7.4,1,4.1,9.7,Off-campus,27.42
+Male,IT,9.01,2,94.01,"SQL, AWS, HTML",Coursera ML,IoT,Business Analyst,Tier 1,8.5,0,8.7,8.1,PPO,38.55
+Female,ECE,7.28,0,79.38,"DL, DSA, Java",DataCamp DS,Data Analytics,DevOps Engineer,Tier 3,6.9,1,5.9,9.3,PPO,26.95
+Male,EEE,7.65,0,94.56,"HTML, CSS, SQL, C++",AWS Certified,Web Dev,QA Engineer,Tier 3,7.9,0,9.1,6.7,On-campus,31.05
+Female,CIVIL,7.67,0,81.37,"DL, Java, AWS",None,Data Analytics,QA Engineer,Tier 3,6.4,5,8.8,8.6,On-campus,30.59
+Female,CSE,8.6,0,100.0,"CSS, Python, AWS, DSA",None,Web Dev,Data Scientist,Tier 3,8.2,4,8.0,9.1,Off-campus,27.53
+Female,ECE,7.43,0,89.19,"C++, Python",Google Cloud,AI/ML,QA Engineer,Tier 1,7.2,2,5.9,8.3,PPO,37.05
+Male,ECE,7.7,0,78.56,"CSS, AWS",None,AI/ML,SDE,Tier 3,7.5,0,7.1,7.0,PPO,25.82
+Female,IT,7.93,2,70.82,"Java, DSA, HTML",None,Cybersecurity,Business Analyst,Tier 2,7.1,3,6.7,7.8,Off-campus,31.65
+Male,ECE,7.63,1,90.66,"Python, HTML, SQL, DL",AWS Certified,IoT,Business Analyst,Tier 1,7.3,5,6.0,8.2,PPO,37.27
+Female,EEE,7.19,0,82.38,"DSA, Java, AWS",DataCamp DS,Cybersecurity,Data Scientist,Tier 3,6.5,3,9.1,5.5,On-campus,29.33
+Female,CIVIL,7.64,1,83.91,"C++, CSS, HTML, Python",None,Data Analytics,QA Engineer,Tier 1,7.8,5,6.9,8.9,On-campus,40.0
+Female,CIVIL,8.25,0,90.36,"C++, HTML",Google Cloud,AI/ML,DevOps Engineer,Tier 3,8.1,3,9.0,9.7,Off-campus,31.79
+Female,CSE,6.78,3,92.07,"C++, Python, Java, CSS",DataCamp DS,Cybersecurity,SDE,Tier 2,6.2,1,4.6,6.8,Off-campus,27.39
+Female,IT,7.59,1,93.57,"CSS, Java, DL",Google Cloud,AI/ML,Data Scientist,Tier 2,6.9,1,4.8,8.2,Off-campus,26.28
+Female,CSE,7.01,0,76.78,"AWS, DL",None,Web Dev,QA Engineer,Tier 2,7.5,1,9.9,8.4,On-campus,38.16
+Female,ECE,8.34,0,94.98,"ML, AWS, CSS",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 1,6.9,5,7.5,8.0,Off-campus,34.57
+Female,CSE,6.43,1,80.95,"DL, C++, ML, HTML",None,Data Analytics,QA Engineer,Tier 2,7.3,5,7.1,7.3,PPO,32.82
+Male,EEE,7.11,0,69.21,"Python, SQL, C++",AWS Certified,Cybersecurity,Data Scientist,Tier 3,9.1,3,7.1,9.3,Off-campus,32.09
+Male,CIVIL,7.76,3,76.75,"Java, AWS, C++",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,6.5,0,5.3,6.7,PPO,22.0
+Female,ECE,8.6,1,86.53,"Python, ML",Google Cloud,Cloud,DevOps Engineer,Tier 3,5.2,5,8.3,4.4,On-campus,29.84
+Female,CSE,7.45,1,78.15,"DL, HTML",AWS Certified,Cloud,DevOps Engineer,Tier 1,6.9,3,4.5,9.1,PPO,37.82
+Female,IT,7.11,1,84.38,"ML, CSS, SQL, DSA",Coursera ML,IoT,DevOps Engineer,Tier 1,7.2,0,7.4,8.0,PPO,31.52
+Male,EEE,8.82,2,87.37,"SQL, DL, C++, ML",Google Cloud,AI/ML,QA Engineer,Tier 2,7.0,1,7.4,9.1,PPO,34.68
+Female,EEE,6.49,2,83.73,"HTML, ML, AWS, DL",None,Web Dev,DevOps Engineer,Tier 1,7.8,5,9.5,4.8,On-campus,34.72
+Male,CSE,5.96,2,81.54,"C++, ML, Python, CSS",Google Cloud,Cybersecurity,QA Engineer,Tier 3,6.5,2,7.2,4.2,PPO,24.68
+Male,CIVIL,7.81,0,76.25,"Java, ML",Coursera ML,Cloud,DevOps Engineer,Tier 3,6.3,1,4.8,9.6,PPO,25.63
+Male,CSE,7.15,0,85.15,"Java, AWS, SQL",Google Cloud,Web Dev,DevOps Engineer,Tier 3,6.8,4,7.4,4.9,Off-campus,22.06
+Male,ECE,6.79,1,70.55,"ML, SQL",AWS Certified,AI/ML,Data Scientist,Tier 1,6.8,0,4.5,8.9,Off-campus,37.94
+Male,CSE,8.0,1,80.2,"DSA, HTML, Java, CSS",Google Cloud,Web Dev,QA Engineer,Tier 3,9.6,2,5.2,8.9,Off-campus,28.04
+Female,EEE,7.67,3,78.51,"HTML, CSS",DataCamp DS,AI/ML,QA Engineer,Tier 2,9.1,1,4.2,8.3,PPO,28.19
+Female,CSE,7.11,2,83.32,"DSA, ML, AWS, DL",Coursera ML,IoT,Business Analyst,Tier 1,5.8,5,7.1,4.8,PPO,39.32
+Female,CIVIL,6.6,1,83.51,"ML, Java, AWS",Google Cloud,Cybersecurity,Data Scientist,Tier 3,5.6,2,4.5,8.0,On-campus,19.9
+Female,IT,8.11,0,91.72,"C++, DL, SQL",Coursera ML,Web Dev,QA Engineer,Tier 3,7.4,3,6.8,9.3,PPO,27.17
+Female,MECH,7.96,1,96.08,"DSA, SQL, DL",AWS Certified,Cybersecurity,Data Scientist,Tier 1,9.4,0,9.6,6.6,PPO,37.16
+Male,CSE,7.43,2,77.18,"DL, AWS, ML",DataCamp DS,Web Dev,Data Scientist,Tier 1,8.2,4,8.3,6.5,On-campus,43.8
+Female,CIVIL,8.79,1,98.95,"Python, CSS, SQL, DSA",None,AI/ML,Data Scientist,Tier 2,7.5,3,4.5,6.7,PPO,30.4
+Female,CIVIL,6.75,1,79.54,"DSA, AWS, Java, C++",Google Cloud,AI/ML,SDE,Tier 1,7.0,2,5.3,4.5,On-campus,34.19
+Male,IT,6.43,1,86.21,"HTML, CSS",AWS Certified,Web Dev,QA Engineer,Tier 3,8.6,1,8.0,9.4,On-campus,31.14
+Female,EEE,7.02,1,88.58,"AWS, CSS, DSA",Coursera ML,IoT,Data Scientist,Tier 2,7.7,0,9.4,9.2,Off-campus,38.28
+Male,CIVIL,7.47,2,100.0,"CSS, ML",Coursera ML,AI/ML,SDE,Tier 3,9.2,5,4.2,10.0,PPO,27.37
+Female,CIVIL,7.67,0,81.2,"CSS, SQL, AWS, DL",AWS Certified,Data Analytics,SDE,Tier 3,5.8,4,8.9,7.5,Off-campus,31.5
+Male,CIVIL,7.33,0,72.42,"Python, C++, SQL, DSA",Google Cloud,Data Analytics,DevOps Engineer,Tier 3,7.9,1,7.4,8.5,PPO,29.39
+Female,CIVIL,7.75,1,95.43,"SQL, CSS, AWS, Python",None,Cybersecurity,DevOps Engineer,Tier 1,6.9,4,7.3,5.2,Off-campus,36.21
+Female,ECE,6.62,0,79.17,"CSS, DSA",Google Cloud,Data Analytics,QA Engineer,Tier 1,7.9,5,9.7,8.0,On-campus,43.03
+Male,ECE,8.51,1,82.47,"AWS, CSS",DataCamp DS,Data Analytics,DevOps Engineer,Tier 3,7.8,0,8.5,7.9,On-campus,31.2
+Male,EEE,7.44,3,77.18,"SQL, DSA, Python",Google Cloud,IoT,QA Engineer,Tier 1,8.0,2,9.1,9.4,On-campus,42.97
+Male,CSE,8.28,0,82.49,"HTML, ML, DL",DataCamp DS,IoT,SDE,Tier 3,8.5,4,6.1,9.0,On-campus,26.23
+Male,CIVIL,7.74,3,79.12,"Python, SQL",Coursera ML,Cloud,SDE,Tier 1,8.9,0,7.3,9.6,PPO,37.41
+Male,IT,7.82,2,89.74,"Java, AWS, ML",DataCamp DS,Cloud,QA Engineer,Tier 1,9.5,4,7.7,9.2,PPO,44.07
+Male,CSE,7.9,2,85.57,"DL, C++, Python, HTML",None,IoT,DevOps Engineer,Tier 1,7.5,1,5.9,9.2,Off-campus,36.93
+Male,IT,7.81,0,80.23,"Java, AWS",AWS Certified,Cloud,DevOps Engineer,Tier 2,7.0,4,7.4,4.4,PPO,33.25
+Male,CSE,7.95,1,91.97,"SQL, DSA",DataCamp DS,IoT,QA Engineer,Tier 1,6.3,1,5.4,9.1,PPO,34.08
+Female,EEE,8.43,0,86.78,"DSA, C++",Google Cloud,Cloud,Business Analyst,Tier 2,7.9,1,4.9,7.6,Off-campus,27.4
+Female,CIVIL,7.64,0,72.08,"DL, C++, CSS",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,8.3,0,6.2,6.3,On-campus,29.16
+Male,CIVIL,8.0,0,91.44,"ML, Python, HTML",Coursera ML,IoT,Data Scientist,Tier 2,6.2,3,8.4,4.3,Off-campus,32.54
+Female,MECH,7.44,0,86.29,"C++, SQL, HTML, CSS",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 3,8.6,5,9.5,8.1,Off-campus,32.25
+Female,IT,8.51,0,94.74,"DSA, CSS, DL, C++",None,Cybersecurity,Business Analyst,Tier 1,7.4,4,6.7,6.0,On-campus,40.25
+Female,CSE,7.03,2,85.87,"ML, AWS, SQL, CSS",DataCamp DS,IoT,SDE,Tier 3,6.2,2,7.9,6.8,Off-campus,28.56
+Female,CSE,8.76,2,79.46,"AWS, DSA, Java, Python",None,Data Analytics,SDE,Tier 2,6.7,1,4.6,8.1,Off-campus,33.63
+Male,ECE,7.47,0,83.57,"C++, DSA",Google Cloud,Cybersecurity,SDE,Tier 1,6.6,3,9.4,9.5,Off-campus,43.83
+Female,MECH,6.5,1,90.63,"HTML, Python, CSS, AWS",Coursera ML,Data Analytics,DevOps Engineer,Tier 3,6.6,1,7.4,9.0,PPO,23.76
+Male,ECE,7.59,1,79.6,"DL, SQL, ML, DSA",AWS Certified,Cybersecurity,SDE,Tier 2,8.1,3,8.7,6.7,On-campus,37.79
+Female,ECE,7.02,0,81.92,"DL, SQL, Python",Google Cloud,Web Dev,Business Analyst,Tier 3,8.4,3,8.8,6.3,On-campus,27.36
+Female,ECE,8.09,0,83.45,"SQL, CSS",Google Cloud,Web Dev,Business Analyst,Tier 3,9.2,2,5.5,5.4,Off-campus,25.82
+Female,IT,7.04,0,76.95,"DSA, DL",AWS Certified,IoT,DevOps Engineer,Tier 1,6.8,3,7.2,6.2,PPO,35.73
+Male,IT,7.19,0,79.71,"Python, CSS, ML, DL",DataCamp DS,Cybersecurity,Data Scientist,Tier 1,7.8,2,9.8,4.7,On-campus,44.59
+Female,EEE,6.18,0,86.21,"SQL, Java, Python, DL",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,6.9,0,4.5,9.8,On-campus,27.34
+Male,EEE,7.18,2,93.42,"Java, CSS, HTML, SQL",DataCamp DS,Data Analytics,SDE,Tier 1,7.5,1,8.1,7.4,Off-campus,37.74
+Female,ECE,5.8,1,87.22,"SQL, DSA, ML, CSS",Coursera ML,Cybersecurity,DevOps Engineer,Tier 1,6.0,2,9.8,4.8,Off-campus,38.71
+Male,MECH,6.39,1,84.68,"Java, Python",Google Cloud,IoT,Business Analyst,Tier 3,6.4,5,5.8,6.1,Off-campus,25.71
+Female,CSE,8.03,2,79.18,"CSS, C++, DL",None,Data Analytics,DevOps Engineer,Tier 1,8.3,1,9.2,7.3,On-campus,43.27
+Male,IT,8.05,0,92.67,"Java, DL, HTML, SQL",AWS Certified,Cloud,DevOps Engineer,Tier 1,6.0,5,9.6,7.2,Off-campus,42.42
+Male,MECH,7.8,1,88.03,"SQL, DSA, AWS, CSS",Google Cloud,IoT,Data Scientist,Tier 2,8.1,4,8.5,4.2,Off-campus,31.98
+Female,CIVIL,6.82,1,80.05,"DSA, C++",DataCamp DS,Cybersecurity,Business Analyst,Tier 1,6.8,5,5.4,9.7,Off-campus,36.08
+Male,IT,7.47,1,91.29,"C++, ML",AWS Certified,AI/ML,QA Engineer,Tier 2,5.6,0,6.0,5.7,PPO,28.96
+Female,IT,7.5,1,88.92,"C++, DL, HTML",None,Cloud,QA Engineer,Tier 3,5.0,4,4.2,4.1,Off-campus,23.59
+Female,EEE,6.69,1,79.31,"Python, CSS, AWS",Google Cloud,IoT,Business Analyst,Tier 2,9.0,4,9.0,4.5,On-campus,35.65
+Female,CSE,8.55,3,84.29,"Java, C++",Google Cloud,Cybersecurity,QA Engineer,Tier 3,5.6,3,9.1,7.5,Off-campus,29.77
+Female,CSE,8.11,1,81.55,"DSA, CSS, C++, AWS",Coursera ML,Web Dev,SDE,Tier 1,7.4,5,7.8,4.8,On-campus,39.87
+Female,CIVIL,7.35,1,100.0,"SQL, ML, HTML, C++",Google Cloud,Cybersecurity,QA Engineer,Tier 1,7.9,3,6.1,4.3,PPO,34.12
+Female,CIVIL,7.52,1,88.72,"ML, Java",Google Cloud,Web Dev,SDE,Tier 2,6.2,5,4.5,6.3,PPO,30.68
+Female,IT,7.65,0,86.31,"DL, HTML",None,Web Dev,Business Analyst,Tier 3,6.9,4,8.5,7.7,Off-campus,35.98
+Female,ECE,6.07,1,88.31,"DL, ML, CSS, HTML",None,IoT,QA Engineer,Tier 1,8.0,3,8.4,4.7,On-campus,37.31
+Female,EEE,7.33,1,94.65,"ML, Java, DSA",AWS Certified,Cybersecurity,QA Engineer,Tier 2,7.8,1,9.5,5.9,Off-campus,37.07
+Female,EEE,7.02,0,84.42,"Java, DSA",DataCamp DS,Cybersecurity,SDE,Tier 2,7.0,5,8.4,6.5,Off-campus,33.47
+Female,IT,6.8,1,80.87,"ML, Python, SQL",None,Web Dev,SDE,Tier 2,7.7,5,9.0,5.0,On-campus,34.76
+Male,MECH,7.3,0,90.91,"DSA, HTML",AWS Certified,Data Analytics,DevOps Engineer,Tier 1,7.4,3,8.5,7.0,On-campus,40.22
+Male,ECE,8.76,1,83.78,"CSS, AWS",Google Cloud,Cloud,Data Scientist,Tier 3,6.5,5,7.8,4.5,On-campus,27.94
+Female,IT,7.95,1,77.51,"Java, Python, DSA",AWS Certified,AI/ML,QA Engineer,Tier 1,8.7,4,6.6,4.3,On-campus,41.49
+Female,ECE,7.1,0,76.15,"Java, CSS, ML, HTML",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.7,3,9.4,7.1,On-campus,40.99
+Female,ECE,7.9,1,95.71,"Python, CSS",AWS Certified,Cloud,Data Scientist,Tier 3,5.7,3,7.9,5.5,PPO,29.0
+Female,ECE,8.48,0,85.92,"SQL, Python, HTML",AWS Certified,Cloud,QA Engineer,Tier 2,8.0,2,6.4,4.6,PPO,27.0
+Female,IT,8.15,0,80.87,"CSS, SQL",None,Data Analytics,SDE,Tier 1,6.9,2,4.5,6.5,PPO,34.6
+Female,EEE,7.54,0,83.36,"Java, AWS, Python, HTML",DataCamp DS,Cloud,DevOps Engineer,Tier 2,7.2,4,5.7,9.5,On-campus,35.33
+Female,EEE,7.05,1,90.65,"CSS, Python, Java",AWS Certified,Cybersecurity,Business Analyst,Tier 2,7.5,1,7.3,8.3,On-campus,32.53
+Female,ECE,7.99,2,82.95,"Java, CSS",Coursera ML,IoT,QA Engineer,Tier 3,6.7,5,5.7,8.9,On-campus,22.93
+Male,MECH,7.78,1,74.85,"ML, HTML",Google Cloud,IoT,QA Engineer,Tier 3,9.3,0,5.3,9.2,Off-campus,26.92
+Female,CSE,8.13,1,87.28,"HTML, Python, CSS",Google Cloud,Cloud,Business Analyst,Tier 3,6.0,5,7.2,9.8,PPO,30.66
+Male,IT,7.94,1,93.46,"C++, ML, CSS, Java",Google Cloud,Cybersecurity,Data Scientist,Tier 2,7.6,0,5.0,8.6,PPO,31.98
+Female,CSE,8.23,0,92.99,"DSA, ML, Python",Google Cloud,Cybersecurity,DevOps Engineer,Tier 2,7.9,4,8.8,7.7,Off-campus,41.09
+Female,MECH,7.13,1,81.08,"SQL, DL, ML",Google Cloud,Web Dev,Data Scientist,Tier 1,7.5,1,6.9,6.2,Off-campus,35.79
+Male,IT,8.42,0,93.88,"SQL, HTML, Python, CSS",AWS Certified,Data Analytics,Business Analyst,Tier 2,7.3,1,7.4,5.1,PPO,30.39
+Female,ECE,7.64,0,86.49,"AWS, DSA, C++, Python",DataCamp DS,AI/ML,Business Analyst,Tier 3,7.1,1,4.9,8.1,On-campus,22.65
+Male,EEE,8.95,3,93.69,"C++, SQL",Coursera ML,Web Dev,DevOps Engineer,Tier 3,6.7,2,5.9,10.0,PPO,29.0
+Female,CSE,7.02,2,89.02,"Python, C++, CSS, Java",None,AI/ML,Business Analyst,Tier 3,6.7,4,6.5,6.8,On-campus,27.86
+Female,CIVIL,8.72,0,74.35,"CSS, Python, AWS",Coursera ML,Cybersecurity,Business Analyst,Tier 3,8.7,0,8.8,8.3,PPO,30.76
+Male,CIVIL,7.64,2,97.23,"Java, Python, DSA",None,IoT,DevOps Engineer,Tier 2,7.1,1,8.6,7.0,PPO,36.32
+Female,MECH,7.04,0,85.36,"ML, DL",None,Web Dev,QA Engineer,Tier 3,9.6,4,5.3,6.6,Off-campus,27.06
+Male,ECE,7.16,2,89.04,"Java, ML",Coursera ML,Cloud,Data Scientist,Tier 1,8.2,5,7.7,6.5,Off-campus,39.55
+Female,CSE,7.28,1,75.59,"Python, Java, DL, DSA",AWS Certified,Cloud,QA Engineer,Tier 2,4.8,0,5.5,7.0,On-campus,26.91
+Male,ECE,7.8,0,88.54,"DSA, SQL",Google Cloud,AI/ML,QA Engineer,Tier 3,8.4,2,9.9,6.2,On-campus,31.09
+Male,CSE,7.87,0,92.72,"Python, HTML, Java",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.4,3,9.7,8.5,PPO,38.44
+Female,MECH,7.1,0,98.55,"DL, C++",Google Cloud,IoT,QA Engineer,Tier 3,6.1,0,7.4,9.2,Off-campus,29.0
+Female,MECH,7.48,1,94.8,"ML, Java, DL",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,8.8,5,8.2,9.3,On-campus,37.62
+Male,CIVIL,9.0,2,88.88,"DL, ML",None,IoT,Data Scientist,Tier 2,7.1,0,8.8,5.4,On-campus,34.7
+Female,ECE,8.71,1,74.19,"CSS, HTML, AWS",Coursera ML,Data Analytics,SDE,Tier 1,7.0,0,8.3,9.4,On-campus,42.19
+Female,IT,7.81,1,85.93,"SQL, HTML, Python",DataCamp DS,IoT,QA Engineer,Tier 2,7.9,3,8.2,6.0,PPO,35.24
+Female,CIVIL,7.53,1,80.85,"Python, CSS, DSA",Google Cloud,Cloud,Business Analyst,Tier 1,8.6,1,9.8,5.9,On-campus,41.11
+Male,ECE,7.58,0,86.64,"C++, Java, AWS, HTML",AWS Certified,Web Dev,Data Scientist,Tier 3,7.6,5,7.6,8.4,On-campus,30.71
+Male,CIVIL,7.93,0,76.49,"DSA, AWS",Coursera ML,Web Dev,SDE,Tier 2,7.5,3,7.8,5.8,Off-campus,30.82
+Male,IT,6.78,2,83.53,"ML, DSA",None,Web Dev,Business Analyst,Tier 3,6.8,0,9.1,4.3,Off-campus,26.6
+Male,EEE,7.32,1,81.38,"ML, Java",DataCamp DS,IoT,SDE,Tier 3,8.6,5,8.0,6.2,Off-campus,30.04
+Male,EEE,6.33,1,81.16,"ML, C++, Java",None,Cloud,QA Engineer,Tier 2,7.6,2,8.4,8.3,PPO,33.74
+Male,EEE,7.78,1,81.23,"Python, Java, AWS, ML",Google Cloud,IoT,Business Analyst,Tier 3,7.3,0,5.4,6.0,Off-campus,25.83
+Male,EEE,7.95,0,84.05,"CSS, HTML",None,Cybersecurity,QA Engineer,Tier 1,7.2,2,6.2,7.8,Off-campus,35.9
+Male,CSE,7.16,0,87.0,"DL, SQL, C++, DSA",AWS Certified,Cloud,Business Analyst,Tier 1,8.5,4,4.9,8.0,Off-campus,36.56
+Male,EEE,8.6,0,67.51,"DL, HTML",DataCamp DS,Cloud,Data Scientist,Tier 1,7.2,2,7.0,8.4,Off-campus,39.39
+Female,IT,6.64,1,68.36,"DL, DSA, C++, HTML",DataCamp DS,IoT,DevOps Engineer,Tier 2,8.5,0,6.7,9.4,On-campus,34.84
+Male,MECH,6.47,1,82.63,"SQL, Python, DL",AWS Certified,IoT,DevOps Engineer,Tier 3,7.0,3,10.0,6.6,PPO,33.36
+Female,MECH,7.66,0,83.62,"SQL, ML",None,Web Dev,SDE,Tier 3,8.2,0,7.7,5.0,On-campus,28.55
+Female,CSE,8.23,0,86.32,"ML, HTML",AWS Certified,Cloud,Business Analyst,Tier 3,7.7,0,8.7,5.9,On-campus,25.16
+Female,EEE,8.68,0,79.91,"HTML, DL",Coursera ML,Web Dev,QA Engineer,Tier 3,6.5,4,6.0,6.6,PPO,29.15
+Male,EEE,7.18,0,85.07,"DL, CSS",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.4,1,9.0,8.3,On-campus,44.21
+Male,EEE,8.26,0,85.89,"DL, C++, AWS",None,Data Analytics,Data Scientist,Tier 2,5.3,0,7.7,4.1,Off-campus,29.71
+Male,CIVIL,7.47,1,79.86,"AWS, HTML, ML",AWS Certified,Web Dev,Data Scientist,Tier 1,6.8,4,8.2,5.9,PPO,39.56
+Male,ECE,7.38,1,92.09,"AWS, ML",Google Cloud,IoT,DevOps Engineer,Tier 1,5.9,3,5.8,8.7,On-campus,34.96
+Female,CIVIL,8.12,0,86.24,"HTML, AWS",AWS Certified,AI/ML,QA Engineer,Tier 2,9.5,4,7.3,8.0,On-campus,31.71
+Male,ECE,7.96,1,88.83,"CSS, Python, DSA",AWS Certified,Data Analytics,Data Scientist,Tier 2,5.9,4,7.8,8.4,Off-campus,33.64
+Male,EEE,6.4,1,85.48,"CSS, HTML, ML",None,Cybersecurity,Data Scientist,Tier 1,10.1,2,7.5,8.9,On-campus,39.24
+Male,EEE,8.53,0,99.73,"Java, SQL, C++",Coursera ML,IoT,SDE,Tier 3,8.0,1,9.5,8.7,On-campus,32.4
+Male,CIVIL,8.47,2,89.17,"DL, ML, HTML",Coursera ML,Data Analytics,Business Analyst,Tier 2,7.0,1,9.4,8.1,On-campus,35.19
+Male,CIVIL,7.06,1,81.58,"ML, CSS, HTML",None,IoT,Business Analyst,Tier 2,8.3,5,9.8,6.6,PPO,36.2
+Female,ECE,7.78,0,90.75,"CSS, AWS",None,Web Dev,Business Analyst,Tier 1,6.9,3,8.0,9.9,PPO,41.46
+Male,MECH,7.85,2,73.54,"CSS, Python, DSA",None,IoT,SDE,Tier 3,6.1,5,9.8,7.4,On-campus,31.2
+Female,ECE,7.68,0,85.84,"Java, C++",Google Cloud,Cybersecurity,DevOps Engineer,Tier 2,7.6,4,9.0,5.2,On-campus,36.31
+Male,CIVIL,7.11,0,87.23,"SQL, DL, C++, AWS",DataCamp DS,AI/ML,SDE,Tier 1,8.2,3,5.6,5.8,Off-campus,36.56
+Female,IT,7.03,0,85.92,"Java, DL, DSA, ML",AWS Certified,Web Dev,Data Scientist,Tier 2,8.8,3,6.6,8.2,PPO,38.34
+Male,CIVIL,7.48,1,82.66,"HTML, AWS, DL, CSS",None,Web Dev,QA Engineer,Tier 3,8.0,1,5.4,9.5,PPO,29.24
+Male,IT,8.32,0,77.91,"ML, AWS",None,Cybersecurity,Data Scientist,Tier 1,7.0,1,4.0,5.1,PPO,32.32
+Female,CSE,7.88,0,79.47,"AWS, Java, CSS",None,Cybersecurity,Data Scientist,Tier 1,8.9,1,5.1,4.5,On-campus,32.36
+Female,CIVIL,7.24,0,85.71,"SQL, AWS",Coursera ML,Data Analytics,QA Engineer,Tier 3,8.7,0,4.0,9.3,Off-campus,25.2
+Female,CSE,8.04,0,77.21,"Python, SQL, DSA, HTML",None,AI/ML,Business Analyst,Tier 1,7.8,4,8.3,9.5,Off-campus,43.09
+Male,MECH,5.51,3,97.39,"Java, C++",AWS Certified,IoT,SDE,Tier 3,8.7,3,6.6,5.7,On-campus,25.0
+Female,ECE,8.3,3,66.51,"DSA, ML",None,Data Analytics,DevOps Engineer,Tier 1,9.7,4,5.9,6.3,On-campus,39.06
+Male,IT,6.28,0,82.74,"AWS, ML",AWS Certified,IoT,Data Scientist,Tier 3,7.0,3,8.6,8.0,Off-campus,27.54
+Male,ECE,7.25,0,85.77,"HTML, C++",Google Cloud,IoT,Data Scientist,Tier 2,6.6,3,9.0,6.0,Off-campus,34.38
+Female,CSE,6.72,0,88.55,"C++, Java, AWS",DataCamp DS,IoT,DevOps Engineer,Tier 2,6.9,5,9.9,9.3,PPO,40.09
+Female,IT,6.59,0,78.59,"DL, C++",Coursera ML,Data Analytics,SDE,Tier 2,6.2,3,7.9,4.6,On-campus,31.17
+Male,ECE,8.31,0,92.94,"DSA, Java, CSS",AWS Certified,Web Dev,Data Scientist,Tier 1,8.1,3,6.8,4.2,PPO,36.02
+Male,CIVIL,7.17,1,75.24,"HTML, ML, SQL, DSA",Google Cloud,Cybersecurity,DevOps Engineer,Tier 3,5.9,2,5.8,5.3,Off-campus,23.68
+Female,EEE,7.74,1,81.04,"ML, SQL, DL",DataCamp DS,Web Dev,Data Scientist,Tier 3,8.8,2,5.3,5.7,PPO,23.26
+Female,CSE,7.47,4,89.35,"Java, DL, C++, DSA",DataCamp DS,AI/ML,Business Analyst,Tier 2,6.8,5,5.3,4.7,Off-campus,31.54
+Female,ECE,7.83,1,92.28,"DSA, ML",DataCamp DS,Data Analytics,Business Analyst,Tier 2,8.9,0,6.5,4.4,Off-campus,28.27
+Male,CSE,7.55,0,75.17,"DSA, C++",AWS Certified,AI/ML,Data Scientist,Tier 2,4.9,1,10.0,8.5,PPO,37.62
+Male,CSE,6.6,0,100.0,"DSA, SQL, Python, Java",Google Cloud,Cybersecurity,Data Scientist,Tier 3,7.1,3,4.0,5.0,On-campus,22.37
+Male,IT,8.2,0,78.72,"ML, Python, DSA",None,Cybersecurity,Business Analyst,Tier 2,6.2,4,5.2,9.5,PPO,30.33
+Male,IT,7.15,0,75.81,"SQL, C++, DSA, DL",Google Cloud,Cloud,Data Scientist,Tier 1,8.9,2,5.1,6.2,PPO,34.87
+Male,EEE,6.41,2,88.52,"Java, Python, ML",Google Cloud,AI/ML,SDE,Tier 2,9.2,1,8.3,8.0,On-campus,33.42
+Male,CIVIL,7.2,0,82.56,"AWS, ML, CSS, C++",Google Cloud,Web Dev,SDE,Tier 2,5.2,0,6.1,5.4,On-campus,31.39
+Female,CSE,8.55,2,81.53,"DL, Python, ML",AWS Certified,AI/ML,QA Engineer,Tier 3,8.4,1,6.7,5.4,PPO,24.49
+Male,ECE,8.1,1,89.17,"SQL, HTML, DL",AWS Certified,Data Analytics,SDE,Tier 1,8.6,3,4.9,7.4,Off-campus,34.61
+Male,MECH,7.26,0,74.31,"C++, HTML",AWS Certified,Cybersecurity,Data Scientist,Tier 3,7.8,1,6.4,7.4,PPO,24.38
+Male,CSE,7.26,1,73.09,"Java, CSS, HTML",Google Cloud,Cybersecurity,Data Scientist,Tier 1,8.1,3,4.6,8.6,Off-campus,32.97
+Female,CSE,7.27,1,80.82,"HTML, SQL",AWS Certified,AI/ML,DevOps Engineer,Tier 1,8.0,5,7.2,8.5,On-campus,43.27
+Male,EEE,8.95,1,92.55,"DSA, CSS, C++, HTML",DataCamp DS,AI/ML,SDE,Tier 2,8.4,2,4.6,8.0,On-campus,32.02
+Male,CIVIL,7.77,0,81.12,"HTML, SQL, AWS",AWS Certified,IoT,Business Analyst,Tier 2,6.4,2,8.7,6.7,Off-campus,35.07
+Female,MECH,7.8,0,96.19,"HTML, AWS, CSS, ML",Coursera ML,AI/ML,Business Analyst,Tier 3,8.7,3,7.4,9.3,PPO,29.58
+Male,IT,8.22,1,93.41,"Java, AWS",AWS Certified,IoT,QA Engineer,Tier 3,7.7,4,8.3,7.7,On-campus,33.05
+Male,IT,7.67,0,86.98,"CSS, HTML, AWS",AWS Certified,Data Analytics,DevOps Engineer,Tier 3,7.6,2,6.5,9.9,Off-campus,27.51
+Male,ECE,7.32,2,87.38,"AWS, HTML",AWS Certified,Data Analytics,Business Analyst,Tier 1,8.1,4,6.3,8.9,Off-campus,40.37
+Male,MECH,7.36,1,86.97,"ML, HTML, C++",AWS Certified,Web Dev,QA Engineer,Tier 3,6.2,3,4.6,4.3,PPO,20.22
+Male,IT,7.45,0,86.12,"C++, Java, DL",Coursera ML,AI/ML,SDE,Tier 1,5.9,5,7.1,5.9,Off-campus,36.08
+Female,ECE,7.47,0,82.44,"DL, SQL",None,Web Dev,DevOps Engineer,Tier 1,7.4,3,7.1,7.4,Off-campus,39.94
+Female,CIVIL,8.01,1,83.25,"AWS, DL, DSA, C++",AWS Certified,Cloud,DevOps Engineer,Tier 1,9.0,5,6.8,8.3,PPO,41.84
+Female,ECE,7.54,1,77.51,"AWS, CSS",DataCamp DS,Data Analytics,Data Scientist,Tier 1,6.3,2,8.4,7.3,On-campus,40.79
+Male,IT,8.01,0,69.53,"HTML, C++, DL",Coursera ML,Cybersecurity,SDE,Tier 1,7.7,4,9.0,8.7,On-campus,40.78
+Male,EEE,7.44,0,92.73,"SQL, C++, AWS",None,IoT,DevOps Engineer,Tier 2,6.8,3,8.5,5.7,On-campus,33.19
+Male,EEE,7.56,0,86.1,"Python, Java, C++",AWS Certified,Cloud,QA Engineer,Tier 1,6.6,2,4.9,5.1,Off-campus,33.25
+Female,EEE,6.1,0,85.04,"Python, SQL, C++",None,Cybersecurity,Business Analyst,Tier 1,8.0,5,7.7,4.3,Off-campus,35.61
+Male,IT,8.14,0,87.79,"C++, HTML",DataCamp DS,Cloud,SDE,Tier 2,8.3,3,4.5,7.4,PPO,32.96
+Male,EEE,7.74,4,79.2,"SQL, C++",Coursera ML,Web Dev,SDE,Tier 2,6.7,5,8.2,8.1,Off-campus,31.22
+Female,MECH,8.2,1,77.99,"DL, Java",Coursera ML,Web Dev,DevOps Engineer,Tier 2,8.9,1,6.3,6.0,Off-campus,30.05
+Male,CIVIL,5.47,4,83.01,"SQL, DSA",None,IoT,DevOps Engineer,Tier 3,7.9,5,4.8,7.7,On-campus,23.97
+Female,ECE,8.96,0,94.58,"HTML, CSS, DSA, SQL",AWS Certified,Data Analytics,DevOps Engineer,Tier 3,7.3,1,9.2,4.3,Off-campus,23.82
+Female,ECE,7.4,0,76.82,"AWS, DSA",Google Cloud,IoT,QA Engineer,Tier 1,7.8,2,7.7,4.6,Off-campus,34.4
+Female,IT,8.28,1,66.61,"Python, AWS, SQL, ML",Coursera ML,Cybersecurity,Data Scientist,Tier 1,9.5,3,6.1,8.2,Off-campus,39.98
+Male,EEE,6.77,2,81.35,"CSS, C++, DSA",Google Cloud,Cloud,DevOps Engineer,Tier 1,8.3,2,4.2,6.2,PPO,33.01
+Male,EEE,7.93,4,93.0,"SQL, CSS",Coursera ML,IoT,Data Scientist,Tier 1,6.8,0,7.2,8.0,Off-campus,41.23
+Male,CSE,6.76,2,72.87,"C++, SQL",AWS Certified,AI/ML,Data Scientist,Tier 2,7.5,5,9.5,9.0,PPO,41.52
+Male,CIVIL,7.06,1,76.74,"Python, DL, C++, Java",AWS Certified,AI/ML,SDE,Tier 3,7.6,2,7.6,9.1,On-campus,30.81
+Male,MECH,8.84,0,86.84,"SQL, DL, Java, DSA",Coursera ML,Data Analytics,Business Analyst,Tier 2,8.2,2,9.8,5.0,Off-campus,37.13
+Male,ECE,7.37,1,100.0,"HTML, SQL, CSS, ML",None,IoT,Business Analyst,Tier 3,7.7,1,4.8,6.9,PPO,24.23
+Male,CSE,7.65,0,75.49,"AWS, DL, DSA, C++",AWS Certified,Cybersecurity,QA Engineer,Tier 2,9.4,5,7.4,8.4,On-campus,30.75
+Female,CSE,8.11,1,75.22,"HTML, DSA, SQL, CSS",AWS Certified,AI/ML,QA Engineer,Tier 1,7.3,1,8.8,8.6,Off-campus,38.71
+Male,IT,7.85,1,87.37,"DSA, CSS, DL",DataCamp DS,Data Analytics,Business Analyst,Tier 3,5.8,3,7.2,8.7,PPO,29.24
+Female,ECE,7.61,0,93.43,"CSS, ML, SQL, HTML",AWS Certified,IoT,Business Analyst,Tier 1,7.7,2,4.5,5.4,PPO,34.25
+Male,IT,7.76,0,80.63,"ML, HTML",DataCamp DS,Data Analytics,SDE,Tier 3,7.1,5,7.5,5.2,On-campus,28.69
+Male,MECH,9.18,1,73.65,"HTML, DSA, AWS",AWS Certified,Cybersecurity,SDE,Tier 3,6.0,2,7.7,7.5,Off-campus,27.61
+Male,CSE,7.46,1,88.04,"AWS, ML, Java, DSA",AWS Certified,AI/ML,Business Analyst,Tier 1,6.8,3,8.4,8.4,Off-campus,42.7
+Female,CSE,7.64,0,89.3,"Python, Java",None,AI/ML,DevOps Engineer,Tier 1,7.1,4,8.6,5.9,Off-campus,42.85
+Female,CIVIL,8.24,2,97.45,"Java, CSS, DL",None,AI/ML,DevOps Engineer,Tier 1,8.6,3,8.6,4.6,PPO,41.46
+Female,MECH,8.27,0,89.6,"DSA, Python",AWS Certified,Web Dev,SDE,Tier 2,6.0,1,8.0,8.3,Off-campus,36.62
+Female,CSE,8.33,0,90.8,"SQL, C++",Coursera ML,AI/ML,Data Scientist,Tier 3,7.8,1,5.3,5.8,PPO,23.48
+Male,MECH,7.95,1,83.16,"CSS, AWS, C++",Coursera ML,Cloud,Business Analyst,Tier 3,9.7,2,6.4,5.0,PPO,28.71
+Female,ECE,6.7,0,100.0,"CSS, DSA, Java",AWS Certified,Web Dev,QA Engineer,Tier 3,7.3,1,8.7,4.9,On-campus,28.34
+Male,EEE,8.64,0,82.21,"SQL, CSS, Java, AWS",Coursera ML,IoT,DevOps Engineer,Tier 1,7.3,5,9.7,5.9,PPO,43.44
+Male,CSE,6.7,0,80.72,"SQL, HTML, C++",AWS Certified,Web Dev,Data Scientist,Tier 3,8.2,3,4.5,7.6,On-campus,25.33
+Female,CIVIL,7.71,2,97.67,"Java, ML, DSA, C++",None,Web Dev,DevOps Engineer,Tier 3,8.0,2,7.2,6.2,On-campus,27.55
+Female,ECE,6.97,1,74.68,"AWS, CSS, DSA",Google Cloud,Web Dev,Data Scientist,Tier 1,8.9,3,5.9,4.1,Off-campus,32.94
+Female,MECH,7.46,0,72.07,"SQL, C++",DataCamp DS,Data Analytics,Business Analyst,Tier 1,7.3,3,5.4,4.6,On-campus,33.71
+Female,IT,7.73,3,85.84,"ML, HTML",Coursera ML,Cloud,Business Analyst,Tier 3,8.2,2,7.0,5.7,Off-campus,29.21
+Female,ECE,7.72,0,84.99,"Java, SQL, ML",Coursera ML,Cybersecurity,Business Analyst,Tier 2,8.2,4,7.6,8.0,On-campus,34.46
+Female,CSE,7.8,1,83.4,"Java, SQL",None,AI/ML,SDE,Tier 1,7.2,1,4.1,4.6,PPO,33.24
+Female,MECH,8.63,1,91.96,"HTML, CSS, DL",Coursera ML,Web Dev,Data Scientist,Tier 2,7.4,0,8.7,7.4,Off-campus,36.98
+Female,EEE,7.82,1,78.64,"CSS, Java, DL, C++",AWS Certified,Cybersecurity,QA Engineer,Tier 2,7.5,0,8.9,4.7,PPO,32.95
+Male,ECE,7.33,0,85.45,"DSA, HTML",AWS Certified,Data Analytics,QA Engineer,Tier 2,6.3,0,9.8,5.3,Off-campus,37.37
+Female,CSE,8.17,1,82.48,"DL, ML, DSA, Java",Google Cloud,Cybersecurity,Business Analyst,Tier 2,7.1,1,5.1,5.0,PPO,27.66
+Female,CIVIL,8.33,1,78.76,"CSS, C++",Google Cloud,Web Dev,QA Engineer,Tier 1,9.0,4,7.6,4.4,On-campus,41.46
+Male,IT,6.64,0,84.57,"CSS, AWS",Google Cloud,IoT,DevOps Engineer,Tier 3,8.5,3,6.6,8.0,Off-campus,28.99
+Female,MECH,7.92,0,90.97,"DSA, CSS",AWS Certified,Cloud,Data Scientist,Tier 3,6.9,2,6.0,6.8,Off-campus,26.05
+Male,ECE,7.99,0,99.84,"C++, CSS, DL",Google Cloud,Cybersecurity,Data Scientist,Tier 1,7.5,4,7.4,9.0,Off-campus,38.82
+Male,ECE,7.29,1,89.06,"SQL, Python, ML, DL",Google Cloud,Web Dev,Data Scientist,Tier 1,8.5,0,8.7,4.6,On-campus,38.14
+Female,EEE,8.46,2,67.42,"C++, HTML",AWS Certified,Web Dev,DevOps Engineer,Tier 2,7.9,5,4.1,4.9,PPO,28.06
+Male,EEE,7.39,1,84.73,"DSA, C++, AWS, DL",None,AI/ML,SDE,Tier 2,8.3,1,9.8,5.8,On-campus,33.56
+Male,CIVIL,7.59,1,85.35,"SQL, ML, DSA, Python",Coursera ML,IoT,DevOps Engineer,Tier 1,8.0,1,8.9,8.6,On-campus,41.23
+Male,IT,7.38,0,91.55,"DL, ML",DataCamp DS,AI/ML,Data Scientist,Tier 3,7.7,2,8.5,5.8,On-campus,27.57
+Male,CIVIL,7.51,3,86.29,"ML, C++",AWS Certified,IoT,Data Scientist,Tier 2,7.3,5,8.6,6.5,PPO,36.8
+Female,CSE,6.73,1,93.77,"ML, C++, AWS, HTML",AWS Certified,Cloud,Data Scientist,Tier 1,6.3,3,6.3,5.8,On-campus,37.91
+Male,CSE,6.49,1,87.74,"SQL, DL",DataCamp DS,AI/ML,QA Engineer,Tier 1,8.2,4,8.5,4.5,Off-campus,36.17
+Female,CIVIL,8.62,1,95.91,"DL, CSS",DataCamp DS,Cloud,SDE,Tier 1,7.3,5,6.3,9.6,On-campus,43.32
+Male,IT,6.91,0,81.93,"DSA, SQL",Google Cloud,Data Analytics,DevOps Engineer,Tier 2,5.9,4,9.4,7.3,PPO,35.97
+Male,CIVIL,6.81,1,86.01,"CSS, SQL, ML",DataCamp DS,Data Analytics,Data Scientist,Tier 1,7.0,4,5.1,8.7,Off-campus,34.19
+Male,IT,5.99,0,90.79,"HTML, ML, SQL",Coursera ML,IoT,Business Analyst,Tier 3,8.4,3,5.8,8.0,PPO,28.07
+Male,IT,7.05,0,80.99,"AWS, CSS, SQL, Python",Coursera ML,IoT,SDE,Tier 1,5.6,3,7.3,7.1,On-campus,36.69
+Female,MECH,6.57,2,79.47,"DL, HTML, CSS, DSA",Coursera ML,AI/ML,Business Analyst,Tier 2,6.5,3,5.9,4.5,PPO,28.62
+Female,IT,8.65,2,80.59,"SQL, CSS, DSA, HTML",Coursera ML,Data Analytics,SDE,Tier 3,7.6,2,6.5,7.9,Off-campus,27.44
+Male,EEE,8.21,2,79.76,"DSA, C++, Python",Coursera ML,Cybersecurity,Data Scientist,Tier 3,8.9,1,7.0,4.9,PPO,25.26
+Male,IT,7.02,0,88.66,"CSS, DSA, Python, Java",Google Cloud,Cybersecurity,SDE,Tier 1,8.5,0,9.1,6.5,Off-campus,41.56
+Female,IT,9.08,2,72.16,"AWS, Python, DL, SQL",AWS Certified,Cybersecurity,SDE,Tier 1,9.0,3,7.1,7.8,Off-campus,39.58
+Male,IT,8.19,0,74.11,"DL, C++, DSA",DataCamp DS,Data Analytics,Data Scientist,Tier 3,7.7,1,6.2,8.7,On-campus,24.99
+Male,CSE,7.27,0,98.04,"AWS, DL, CSS, ML",AWS Certified,Cybersecurity,Business Analyst,Tier 1,7.3,3,5.5,8.1,On-campus,37.48
+Male,EEE,5.75,0,79.92,"DL, SQL, CSS",DataCamp DS,Cloud,Business Analyst,Tier 2,8.3,0,6.5,8.0,Off-campus,29.13
+Female,EEE,9.1,1,86.4,"Python, AWS, CSS, DSA",Google Cloud,Web Dev,QA Engineer,Tier 3,6.6,5,7.1,4.9,PPO,25.46
+Female,CIVIL,6.53,0,74.58,"SQL, ML, AWS, Java",Google Cloud,IoT,Business Analyst,Tier 1,6.5,3,8.5,6.1,Off-campus,41.17
+Female,MECH,6.35,1,85.66,"AWS, ML, HTML, Python",None,AI/ML,Business Analyst,Tier 3,6.3,1,4.7,4.3,On-campus,18.66
+Male,IT,8.22,1,79.97,"Java, CSS",None,Cloud,SDE,Tier 1,8.6,2,5.3,8.3,PPO,32.28
+Male,ECE,9.21,0,74.06,"CSS, Java",Google Cloud,Cybersecurity,QA Engineer,Tier 1,6.7,5,6.3,9.7,Off-campus,41.27
+Female,MECH,8.47,0,94.36,"ML, DSA, DL",Google Cloud,Web Dev,Data Scientist,Tier 2,8.5,5,6.2,5.6,On-campus,31.75
+Female,MECH,7.89,0,93.28,"ML, Java, AWS, Python",DataCamp DS,AI/ML,Data Scientist,Tier 1,7.6,5,6.4,4.5,Off-campus,35.8
+Female,EEE,7.92,0,84.25,"ML, Python, C++, AWS",Google Cloud,Cloud,DevOps Engineer,Tier 1,8.6,0,8.8,6.9,Off-campus,39.8
+Female,MECH,8.1,2,92.0,"CSS, Java, C++",AWS Certified,AI/ML,QA Engineer,Tier 1,6.4,1,5.9,9.1,Off-campus,37.59
+Male,IT,8.03,2,98.32,"CSS, C++, AWS",DataCamp DS,IoT,SDE,Tier 2,6.9,4,7.0,7.3,PPO,32.08
+Female,IT,7.7,0,90.28,"HTML, Java, SQL, C++",Google Cloud,Data Analytics,DevOps Engineer,Tier 1,8.0,4,7.7,4.3,On-campus,40.76
+Male,CSE,7.57,0,88.36,"Python, C++, HTML",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 1,7.1,4,5.4,9.8,On-campus,34.83
+Female,IT,7.46,0,86.39,"SQL, C++",DataCamp DS,Cloud,Data Scientist,Tier 1,5.0,2,8.3,9.0,Off-campus,40.97
+Male,IT,6.97,2,89.55,"SQL, Java",Coursera ML,Cloud,Business Analyst,Tier 3,6.1,3,7.3,4.8,Off-campus,27.42
+Female,EEE,7.3,0,82.45,"ML, C++",None,Web Dev,SDE,Tier 2,6.4,3,6.7,9.5,Off-campus,32.29
+Female,IT,6.31,4,83.06,"DSA, AWS, CSS, DL",DataCamp DS,Web Dev,QA Engineer,Tier 3,6.5,3,8.9,6.7,PPO,27.65
+Female,CSE,7.43,1,88.16,"ML, AWS",DataCamp DS,Web Dev,DevOps Engineer,Tier 2,8.2,2,5.5,6.2,On-campus,32.22
+Female,ECE,6.81,0,81.68,"HTML, DL",Coursera ML,AI/ML,SDE,Tier 2,7.8,4,9.3,6.8,Off-campus,34.45
+Male,EEE,6.73,1,82.44,"C++, CSS, HTML, Python",Google Cloud,Cybersecurity,Data Scientist,Tier 3,7.7,5,7.4,9.0,On-campus,29.13
+Female,ECE,7.63,0,85.0,"SQL, Python",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,9.5,3,7.7,8.0,Off-campus,37.44
+Male,EEE,8.47,2,93.05,"Python, SQL, CSS",Coursera ML,Cybersecurity,DevOps Engineer,Tier 2,8.7,5,9.3,4.4,On-campus,36.31
+Male,CIVIL,8.14,0,77.07,"AWS, DL, Java, ML",AWS Certified,Cloud,Data Scientist,Tier 3,8.3,5,8.9,9.7,Off-campus,30.44
+Male,MECH,6.4,0,90.31,"Java, AWS, SQL, HTML",Coursera ML,AI/ML,Data Scientist,Tier 1,6.0,2,7.6,4.9,PPO,39.52
+Male,CIVIL,6.81,1,90.54,"DSA, DL",None,AI/ML,Data Scientist,Tier 2,7.6,2,8.5,8.5,Off-campus,34.68
+Female,IT,8.16,2,90.5,"AWS, ML",None,AI/ML,SDE,Tier 3,7.8,1,6.6,7.8,Off-campus,27.05
+Male,ECE,6.81,1,79.35,"Java, SQL, C++",Google Cloud,Data Analytics,SDE,Tier 2,7.1,3,7.3,5.1,Off-campus,32.18
+Male,IT,7.34,0,73.15,"DSA, HTML, SQL, Python",Google Cloud,IoT,SDE,Tier 3,9.2,4,4.4,5.0,Off-campus,24.9
+Male,MECH,7.89,3,88.92,"AWS, DL, CSS, Java",None,Cybersecurity,Business Analyst,Tier 1,7.6,0,4.5,9.2,Off-campus,39.1
+Female,EEE,6.82,1,86.31,"SQL, ML",None,Cybersecurity,DevOps Engineer,Tier 2,6.3,2,9.0,6.5,On-campus,31.26
+Female,MECH,7.57,2,92.03,"HTML, DL, SQL",DataCamp DS,AI/ML,SDE,Tier 1,6.5,5,4.4,7.9,On-campus,36.67
+Female,CSE,6.57,0,80.1,"AWS, CSS",None,Data Analytics,Business Analyst,Tier 1,9.8,1,5.0,7.0,PPO,36.39
+Female,MECH,7.08,1,90.32,"ML, DL, C++, SQL",Google Cloud,AI/ML,DevOps Engineer,Tier 3,7.1,0,8.8,8.4,Off-campus,30.19
+Male,CSE,7.72,0,92.38,"DL, Python",None,Cybersecurity,SDE,Tier 2,5.4,2,4.0,6.9,On-campus,29.02
+Male,MECH,6.38,0,84.33,"C++, HTML",Google Cloud,IoT,Data Scientist,Tier 2,6.9,1,5.7,5.7,On-campus,30.66
+Female,CSE,7.81,3,87.92,"AWS, DL, CSS, Java",AWS Certified,IoT,QA Engineer,Tier 2,5.7,5,7.5,6.2,Off-campus,30.51
+Male,ECE,7.49,2,87.67,"DL, DSA, HTML, SQL",None,Cloud,SDE,Tier 2,8.4,3,7.6,9.2,Off-campus,39.34
+Male,IT,7.89,0,79.25,"HTML, Java, AWS, DL",Google Cloud,Data Analytics,QA Engineer,Tier 2,5.5,1,8.7,6.8,PPO,31.14
+Male,IT,7.66,0,88.72,"CSS, ML, AWS",Coursera ML,IoT,SDE,Tier 3,6.1,2,7.0,5.3,PPO,23.81
+Female,CIVIL,8.45,2,96.36,"AWS, Java",DataCamp DS,Data Analytics,Data Scientist,Tier 2,7.5,3,7.1,9.6,On-campus,34.97
+Female,IT,7.59,0,85.16,"AWS, Java",Google Cloud,AI/ML,QA Engineer,Tier 1,8.6,5,8.4,8.8,PPO,46.34
+Male,EEE,7.2,1,74.77,"DSA, AWS, HTML, Java",None,Cloud,Business Analyst,Tier 1,7.4,4,7.0,4.3,On-campus,35.65
+Female,MECH,7.59,2,80.19,"Java, HTML",None,Cybersecurity,Data Scientist,Tier 2,6.2,1,7.7,10.0,PPO,35.06
+Female,CIVIL,7.88,0,72.54,"AWS, DSA, C++",AWS Certified,IoT,QA Engineer,Tier 3,7.7,0,9.4,8.2,Off-campus,34.72
+Female,EEE,7.53,2,94.03,"DL, AWS, DSA, ML",Coursera ML,IoT,QA Engineer,Tier 3,7.0,5,6.4,5.0,PPO,25.56
+Female,EEE,7.53,1,90.35,"AWS, HTML",Google Cloud,Web Dev,Data Scientist,Tier 2,8.6,3,6.3,5.4,On-campus,28.98
+Female,CSE,7.01,1,81.49,"AWS, HTML, Python, C++",Coursera ML,Cybersecurity,Data Scientist,Tier 1,8.4,5,4.0,8.2,PPO,34.27
+Male,IT,7.04,1,75.07,"C++, DSA",AWS Certified,IoT,Data Scientist,Tier 2,7.0,3,7.7,8.7,On-campus,37.6
+Female,ECE,6.52,1,79.17,"C++, ML, AWS",DataCamp DS,IoT,DevOps Engineer,Tier 2,8.3,5,4.2,5.4,On-campus,28.3
+Male,ECE,8.72,0,80.53,"C++, ML",Coursera ML,Cybersecurity,Business Analyst,Tier 2,7.8,4,7.0,5.5,PPO,36.89
+Male,CIVIL,6.63,0,85.77,"DSA, ML",AWS Certified,Cloud,SDE,Tier 3,8.9,1,8.8,5.8,PPO,30.91
+Female,ECE,7.01,1,85.53,"DL, SQL",Google Cloud,Data Analytics,QA Engineer,Tier 3,8.2,0,7.3,7.6,On-campus,26.77
+Male,MECH,7.0,0,94.39,"Java, CSS, SQL, AWS",DataCamp DS,Cybersecurity,SDE,Tier 1,8.0,4,5.6,5.0,Off-campus,34.9
+Male,ECE,8.13,0,80.15,"DL, SQL, CSS",None,Data Analytics,Data Scientist,Tier 1,8.8,1,8.7,4.6,PPO,37.45
+Male,CIVIL,7.29,3,74.44,"ML, CSS, C++",AWS Certified,Cloud,Business Analyst,Tier 2,7.5,0,5.6,8.1,On-campus,29.38
+Female,ECE,8.37,1,76.9,"CSS, C++, HTML, DSA",None,Cloud,Business Analyst,Tier 1,6.7,5,8.4,8.7,Off-campus,51.01
+Female,MECH,7.03,2,84.84,"DSA, CSS",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,7.7,0,7.7,7.0,On-campus,35.08
+Male,CSE,7.7,1,79.9,"C++, CSS, ML, Java",AWS Certified,Web Dev,Data Scientist,Tier 1,7.1,2,5.0,6.2,PPO,35.85
+Female,CIVIL,6.92,1,82.96,"CSS, Java, DL",AWS Certified,Cloud,QA Engineer,Tier 2,8.1,0,9.4,6.6,On-campus,34.17
+Female,CSE,9.0,0,81.82,"SQL, Java",DataCamp DS,Cloud,DevOps Engineer,Tier 3,7.6,1,5.2,6.3,On-campus,28.19
+Female,CSE,6.67,0,91.93,"DSA, CSS",Google Cloud,Data Analytics,Data Scientist,Tier 2,7.9,4,9.9,9.8,On-campus,41.6
+Female,CSE,7.72,1,80.89,"CSS, SQL, DL, DSA",AWS Certified,Cloud,DevOps Engineer,Tier 3,6.3,4,4.0,8.6,PPO,28.36
+Male,EEE,7.94,1,82.36,"SQL, DL, Python, DSA",DataCamp DS,Cybersecurity,SDE,Tier 3,8.0,2,5.6,5.2,Off-campus,28.48
+Male,IT,7.79,0,90.02,"SQL, ML",Coursera ML,AI/ML,Data Scientist,Tier 1,6.2,1,5.2,6.3,Off-campus,30.93
+Female,EEE,7.37,1,81.05,"Java, DSA",None,AI/ML,QA Engineer,Tier 1,8.5,0,4.1,7.3,Off-campus,31.13
+Female,IT,7.41,0,87.96,"Java, DSA, DL, C++",AWS Certified,Cybersecurity,QA Engineer,Tier 3,8.5,2,8.4,7.7,Off-campus,28.69
+Male,CSE,7.53,1,87.32,"C++, ML",Coursera ML,IoT,Data Scientist,Tier 2,7.8,5,8.2,6.8,PPO,33.56
+Male,CIVIL,7.4,0,85.99,"ML, CSS, DSA, HTML",AWS Certified,Cloud,DevOps Engineer,Tier 2,7.8,3,8.8,8.9,On-campus,37.8
+Female,IT,8.17,0,77.06,"DL, CSS, SQL, Python",Google Cloud,Web Dev,Business Analyst,Tier 1,7.3,5,5.5,8.6,Off-campus,36.64
+Male,MECH,9.05,2,93.61,"DL, SQL",DataCamp DS,Cloud,Data Scientist,Tier 2,6.9,1,6.7,7.0,Off-campus,36.68
+Female,MECH,7.11,1,100.0,"CSS, Python",AWS Certified,AI/ML,QA Engineer,Tier 2,7.5,2,8.0,9.1,PPO,39.33
+Female,ECE,6.54,0,85.06,"Java, DSA, HTML, C++",DataCamp DS,Web Dev,SDE,Tier 2,9.5,4,6.6,8.5,On-campus,34.11
+Male,IT,7.44,1,77.68,"C++, SQL, Java, Python",AWS Certified,IoT,QA Engineer,Tier 3,7.7,2,8.2,8.7,On-campus,34.7
+Male,CIVIL,9.31,0,85.2,"DSA, CSS, Python",Google Cloud,Data Analytics,Business Analyst,Tier 3,6.2,3,7.8,9.7,Off-campus,34.5
+Female,EEE,6.94,0,91.93,"ML, DSA",Google Cloud,Data Analytics,QA Engineer,Tier 2,5.8,1,4.7,5.6,Off-campus,26.16
+Female,CSE,8.65,0,80.69,"CSS, Java",Coursera ML,Cloud,Business Analyst,Tier 1,6.1,2,8.7,5.6,On-campus,35.32
+Male,ECE,8.67,1,84.1,"ML, CSS, DL, HTML",Google Cloud,Cloud,Data Scientist,Tier 2,7.1,5,8.3,9.3,PPO,37.2
+Female,MECH,7.11,1,87.38,"Java, DSA, DL",DataCamp DS,Web Dev,QA Engineer,Tier 1,8.8,0,7.9,8.6,On-campus,38.66
+Male,EEE,7.9,1,93.42,"C++, Java",Google Cloud,Web Dev,DevOps Engineer,Tier 3,6.5,5,4.9,9.6,On-campus,27.53
+Female,EEE,8.64,0,90.43,"Python, DL, Java, ML",AWS Certified,IoT,DevOps Engineer,Tier 2,8.9,1,5.6,4.4,Off-campus,29.84
+Male,CSE,7.23,2,90.72,"Python, CSS, DSA",Google Cloud,Cloud,QA Engineer,Tier 2,7.7,2,6.4,7.8,PPO,32.48
+Male,IT,7.36,0,82.02,"CSS, AWS, SQL, Python",DataCamp DS,AI/ML,QA Engineer,Tier 1,8.0,5,5.7,4.9,PPO,36.41
+Male,MECH,7.09,0,87.81,"AWS, HTML, DSA, SQL",AWS Certified,Data Analytics,SDE,Tier 1,8.0,2,5.4,7.0,PPO,32.92
+Female,CIVIL,6.79,0,79.95,"ML, Java, CSS, HTML",Coursera ML,IoT,QA Engineer,Tier 2,8.1,5,8.8,4.9,Off-campus,35.59
+Female,EEE,7.05,0,90.92,"Python, AWS, DSA",Coursera ML,Web Dev,SDE,Tier 2,7.1,1,7.8,4.8,PPO,30.85
+Male,CSE,6.64,1,93.06,"HTML, ML",Coursera ML,AI/ML,SDE,Tier 1,5.2,4,7.4,4.1,PPO,35.97
+Female,CIVIL,7.52,0,88.87,"ML, Java, C++",AWS Certified,Cloud,SDE,Tier 3,6.9,5,5.4,7.8,Off-campus,28.49
+Male,IT,6.96,2,82.43,"AWS, DSA, C++",Coursera ML,Cybersecurity,SDE,Tier 1,6.6,0,9.5,6.2,On-campus,37.26
+Male,MECH,7.66,0,83.57,"DL, ML",Google Cloud,Web Dev,Data Scientist,Tier 2,7.8,5,5.1,4.6,PPO,28.76
+Female,IT,6.41,0,97.65,"AWS, HTML, SQL, C++",AWS Certified,IoT,DevOps Engineer,Tier 3,7.7,1,8.8,5.9,On-campus,28.68
+Female,EEE,7.73,1,82.55,"Python, HTML, SQL, Java",AWS Certified,Cybersecurity,SDE,Tier 3,7.2,5,9.8,5.0,PPO,30.42
+Male,CIVIL,8.08,0,92.35,"Java, CSS",AWS Certified,AI/ML,DevOps Engineer,Tier 3,9.3,0,8.4,9.7,On-campus,33.95
+Female,CIVIL,6.1,1,87.37,"DSA, ML, HTML, AWS",None,Data Analytics,SDE,Tier 3,6.9,0,10.0,5.9,On-campus,28.5
+Female,CIVIL,7.76,1,82.66,"ML, Java, C++",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,5.3,1,7.9,6.0,Off-campus,31.24
+Male,EEE,8.36,0,75.59,"Python, C++",None,Data Analytics,QA Engineer,Tier 3,7.6,2,5.3,9.0,Off-campus,25.65
+Male,EEE,6.65,1,86.48,"ML, DL, AWS, Java",None,AI/ML,QA Engineer,Tier 1,8.7,5,5.2,7.9,PPO,38.82
+Female,IT,8.67,2,85.64,"AWS, HTML, SQL, DL",None,Web Dev,DevOps Engineer,Tier 1,7.8,4,5.9,8.3,PPO,37.33
+Male,ECE,7.79,0,97.65,"CSS, SQL, DL",DataCamp DS,Web Dev,SDE,Tier 1,7.1,0,4.0,7.8,Off-campus,34.12
+Male,IT,7.01,0,78.98,"C++, AWS, ML, DL",None,IoT,Data Scientist,Tier 2,7.7,0,8.1,9.7,PPO,39.48
+Female,MECH,7.46,3,100.0,"HTML, AWS, SQL, Java",Coursera ML,Cybersecurity,DevOps Engineer,Tier 3,9.3,5,5.6,5.2,PPO,25.84
+Male,CSE,7.89,0,87.65,"DL, Python, SQL",AWS Certified,AI/ML,Business Analyst,Tier 1,6.6,2,8.9,9.9,Off-campus,44.69
+Male,CIVIL,7.55,3,87.64,"DSA, AWS",AWS Certified,AI/ML,Data Scientist,Tier 1,7.5,5,6.2,9.0,On-campus,42.22
+Female,ECE,7.88,1,80.85,"SQL, HTML",Google Cloud,Cybersecurity,Business Analyst,Tier 1,8.2,1,6.9,7.5,PPO,40.17
+Female,CSE,6.86,1,87.2,"Python, C++, CSS",Coursera ML,Cloud,DevOps Engineer,Tier 3,7.8,4,9.8,8.0,Off-campus,33.02
+Male,ECE,7.62,0,88.31,"ML, SQL, AWS, DL",DataCamp DS,IoT,SDE,Tier 1,7.3,5,5.5,7.9,PPO,38.29
+Male,IT,6.51,1,91.56,"AWS, C++, ML",AWS Certified,AI/ML,Business Analyst,Tier 3,7.1,0,8.3,4.4,PPO,24.05
+Female,EEE,7.42,1,78.15,"HTML, DSA, DL, Java",None,IoT,DevOps Engineer,Tier 3,7.2,0,8.5,5.3,Off-campus,26.49
+Female,CIVIL,6.87,0,94.85,"CSS, HTML, SQL, C++",Google Cloud,AI/ML,Data Scientist,Tier 3,8.0,1,5.3,9.8,Off-campus,25.54
+Female,IT,6.99,1,87.53,"Java, CSS",Google Cloud,AI/ML,SDE,Tier 2,8.0,2,7.0,7.2,PPO,37.32
+Female,CSE,8.37,2,89.26,"Java, DL, DSA, HTML",AWS Certified,Cloud,Business Analyst,Tier 2,9.6,5,6.1,6.3,PPO,31.46
+Male,CSE,8.26,0,83.45,"Java, Python",Coursera ML,Web Dev,DevOps Engineer,Tier 3,6.0,3,8.6,8.6,On-campus,29.7
+Female,CSE,7.93,0,78.5,"DL, SQL, DSA, C++",Google Cloud,IoT,SDE,Tier 3,9.3,2,7.7,7.1,On-campus,27.72
+Female,CSE,6.74,0,85.51,"Java, AWS",AWS Certified,Cybersecurity,SDE,Tier 2,7.3,0,6.9,4.1,Off-campus,30.63
+Male,CSE,7.28,2,86.31,"DSA, AWS, DL, HTML",Coursera ML,IoT,QA Engineer,Tier 2,7.4,5,8.7,8.4,PPO,37.32
+Female,ECE,8.35,0,75.3,"HTML, Java",AWS Certified,Cloud,SDE,Tier 3,8.4,0,5.4,8.4,Off-campus,28.69
+Male,IT,7.6,0,90.55,"HTML, C++, SQL, ML",AWS Certified,Data Analytics,DevOps Engineer,Tier 2,8.4,4,8.5,5.0,Off-campus,35.95
+Female,CIVIL,9.12,1,91.98,"Python, DL",Coursera ML,Data Analytics,Data Scientist,Tier 1,8.7,2,9.2,9.7,PPO,41.47
+Female,EEE,7.78,1,79.89,"ML, Python, DSA, CSS",Coursera ML,Cloud,QA Engineer,Tier 3,8.9,3,9.3,5.3,On-campus,29.4
+Female,EEE,7.63,1,77.84,"Java, C++, Python",Coursera ML,Cloud,DevOps Engineer,Tier 3,7.5,4,8.7,6.7,Off-campus,33.49
+Male,IT,7.28,1,82.88,"DSA, SQL",AWS Certified,Web Dev,DevOps Engineer,Tier 2,8.9,3,6.4,4.7,Off-campus,30.58
+Male,IT,7.59,0,85.17,"C++, Java, SQL, AWS",Google Cloud,IoT,DevOps Engineer,Tier 1,6.9,4,9.9,7.6,PPO,45.3
+Female,EEE,7.39,2,83.15,"AWS, Python",DataCamp DS,IoT,Business Analyst,Tier 2,7.2,2,6.3,6.3,On-campus,30.74
+Male,EEE,8.0,0,84.57,"HTML, Java, CSS, SQL",DataCamp DS,Data Analytics,Business Analyst,Tier 1,7.3,0,7.8,6.1,On-campus,35.95
+Male,ECE,8.17,0,86.55,"ML, AWS, Python",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.0,3,5.0,9.0,PPO,35.98
+Male,MECH,6.95,0,75.42,"ML, C++",AWS Certified,IoT,DevOps Engineer,Tier 3,7.6,2,9.9,4.1,Off-campus,27.9
+Male,CIVIL,6.57,0,76.23,"AWS, CSS, C++, DSA",Google Cloud,AI/ML,Business Analyst,Tier 1,8.4,3,8.2,8.8,PPO,39.87
+Male,CSE,6.21,0,65.94,"C++, ML, Python",Coursera ML,AI/ML,Business Analyst,Tier 3,8.2,2,8.5,7.4,PPO,30.32
+Male,MECH,7.86,1,91.6,"CSS, DL, HTML",AWS Certified,Web Dev,Business Analyst,Tier 1,6.9,4,4.4,9.9,On-campus,37.44
+Female,IT,6.73,1,85.11,"DSA, Python, Java",None,Web Dev,Data Scientist,Tier 3,6.8,2,8.6,7.5,Off-campus,26.65
+Female,EEE,5.99,0,92.33,"Python, SQL, AWS",Coursera ML,Data Analytics,Data Scientist,Tier 1,6.6,4,8.6,4.3,Off-campus,37.71
+Male,MECH,7.77,5,77.04,"AWS, ML, SQL",AWS Certified,Cybersecurity,DevOps Engineer,Tier 2,7.6,0,8.0,4.3,On-campus,30.76
+Female,CIVIL,9.25,0,85.17,"Java, DSA",None,Cybersecurity,QA Engineer,Tier 1,5.9,4,5.8,9.3,Off-campus,37.1
+Female,IT,7.5,2,86.5,"DSA, AWS, HTML, Java",Google Cloud,Cloud,DevOps Engineer,Tier 2,6.6,1,6.9,9.0,Off-campus,33.61
+Female,CSE,8.09,1,81.07,"SQL, DL, DSA",None,Web Dev,Business Analyst,Tier 1,7.0,0,4.7,6.1,PPO,32.06
+Female,CSE,7.56,0,74.13,"HTML, ML",AWS Certified,IoT,Business Analyst,Tier 1,8.6,5,6.8,7.7,PPO,42.07
+Male,CIVIL,7.43,2,97.22,"ML, Python, AWS, C++",DataCamp DS,AI/ML,SDE,Tier 3,7.4,5,5.5,6.9,PPO,28.63
+Female,CIVIL,8.14,0,94.79,"AWS, DL, ML",AWS Certified,IoT,DevOps Engineer,Tier 1,8.5,2,6.1,9.8,Off-campus,41.44
+Female,EEE,7.3,0,82.33,"C++, CSS, ML, AWS",DataCamp DS,AI/ML,Business Analyst,Tier 1,7.7,2,5.0,9.7,Off-campus,35.63
+Male,CSE,7.69,3,88.57,"DSA, CSS, HTML",Google Cloud,Data Analytics,Business Analyst,Tier 1,7.0,1,5.4,9.9,Off-campus,35.05
+Male,IT,7.73,1,81.61,"ML, Python",Google Cloud,AI/ML,QA Engineer,Tier 2,7.1,2,4.5,9.2,Off-campus,30.66
+Female,MECH,7.03,1,78.03,"Python, C++",Coursera ML,IoT,SDE,Tier 3,6.3,0,9.5,9.5,On-campus,31.63
+Female,IT,8.19,0,97.79,"DSA, HTML, ML",Coursera ML,IoT,DevOps Engineer,Tier 3,9.9,0,7.2,5.3,On-campus,26.35
+Female,ECE,7.38,2,73.41,"DSA, Python, SQL, C++",DataCamp DS,Cybersecurity,Data Scientist,Tier 1,8.6,4,6.4,9.0,Off-campus,36.88
+Female,ECE,6.97,1,83.0,"DSA, DL",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 1,8.1,3,7.2,8.3,PPO,39.15
+Female,CIVIL,7.88,0,85.59,"Java, DSA",Google Cloud,Web Dev,DevOps Engineer,Tier 2,6.2,2,7.8,9.8,PPO,34.77
+Female,EEE,6.87,0,96.56,"SQL, HTML",None,IoT,QA Engineer,Tier 1,7.0,1,9.5,7.4,On-campus,42.34
+Male,ECE,7.52,0,91.28,"Python, DL, DSA, SQL",DataCamp DS,Data Analytics,DevOps Engineer,Tier 3,6.5,5,5.1,4.5,On-campus,24.99
+Female,CSE,7.49,1,73.29,"DL, Python, ML, DSA",DataCamp DS,AI/ML,QA Engineer,Tier 3,7.6,0,5.8,7.6,Off-campus,28.01
+Female,IT,8.26,2,84.98,"SQL, ML, CSS, C++",None,Web Dev,QA Engineer,Tier 2,6.6,0,9.9,8.1,Off-campus,34.77
+Male,IT,7.83,1,85.15,"SQL, AWS, Java",Coursera ML,Cloud,Business Analyst,Tier 2,6.8,0,6.2,5.3,Off-campus,30.45
+Male,CIVIL,7.48,1,83.4,"Java, C++, ML, AWS",Coursera ML,Cloud,Data Scientist,Tier 3,6.6,3,4.1,6.4,Off-campus,21.46
+Male,MECH,8.07,0,89.34,"Java, SQL, DL, CSS",DataCamp DS,AI/ML,QA Engineer,Tier 2,7.3,3,4.9,7.6,Off-campus,28.08
+Male,CIVIL,8.47,0,75.14,"SQL, C++, Java",Coursera ML,AI/ML,SDE,Tier 1,7.6,2,4.2,6.2,PPO,32.66
+Female,MECH,7.89,0,82.14,"SQL, C++, DSA",Coursera ML,AI/ML,SDE,Tier 1,7.3,5,9.9,6.2,PPO,44.69
+Female,CIVIL,7.51,0,88.35,"DSA, ML",Coursera ML,Cybersecurity,Data Scientist,Tier 2,9.0,1,5.7,4.8,Off-campus,28.82
+Female,CIVIL,6.58,3,89.76,"DL, SQL",Google Cloud,AI/ML,QA Engineer,Tier 3,8.3,3,9.5,9.6,PPO,36.61
+Female,CIVIL,6.75,0,86.05,"CSS, C++, Java, DL",AWS Certified,Cloud,Data Scientist,Tier 2,6.7,4,10.0,8.5,Off-campus,39.3
+Female,MECH,7.29,0,82.98,"C++, Python, SQL, DL",DataCamp DS,AI/ML,Business Analyst,Tier 3,7.8,3,7.6,4.0,Off-campus,26.08
+Female,MECH,7.07,0,84.16,"ML, DL",DataCamp DS,IoT,SDE,Tier 2,6.8,0,4.2,8.6,On-campus,30.9
+Male,CIVIL,7.37,0,90.18,"HTML, C++, Java",Google Cloud,Data Analytics,DevOps Engineer,Tier 2,7.1,1,4.5,8.4,PPO,30.35
+Female,ECE,7.54,1,85.24,"CSS, AWS",AWS Certified,Cloud,SDE,Tier 2,8.0,2,6.9,4.1,PPO,28.92
+Male,EEE,7.87,0,77.71,"Java, Python, SQL",AWS Certified,Data Analytics,QA Engineer,Tier 1,8.2,3,6.4,6.2,On-campus,40.77
+Male,EEE,7.45,0,76.37,"DL, ML, C++, AWS",Google Cloud,Cloud,Data Scientist,Tier 1,6.9,0,7.6,7.6,PPO,38.72
+Female,EEE,7.84,2,74.57,"CSS, HTML",None,Web Dev,SDE,Tier 3,6.4,4,6.6,6.7,On-campus,27.31
+Male,MECH,7.55,2,95.19,"C++, DL, HTML",None,IoT,DevOps Engineer,Tier 2,7.6,4,9.6,8.7,PPO,36.79
+Female,MECH,6.12,0,90.65,"DL, C++, DSA, SQL",AWS Certified,Cloud,DevOps Engineer,Tier 1,7.9,2,7.2,6.6,Off-campus,39.6
+Male,ECE,6.84,2,84.25,"HTML, AWS, Python, SQL",None,IoT,Data Scientist,Tier 2,6.9,2,8.2,4.9,On-campus,33.54
+Female,EEE,7.4,0,81.82,"C++, AWS, DL",None,Cloud,Data Scientist,Tier 3,8.3,3,9.4,9.9,Off-campus,35.21
+Male,EEE,6.65,0,80.98,"SQL, HTML, CSS",None,Data Analytics,SDE,Tier 1,8.1,2,4.9,5.5,Off-campus,32.35
+Female,CIVIL,7.92,1,92.65,"Java, DSA",AWS Certified,Data Analytics,QA Engineer,Tier 3,6.8,5,5.4,8.3,PPO,28.76
+Female,MECH,8.57,0,98.33,"Python, SQL, CSS, C++",None,Cloud,Business Analyst,Tier 1,8.6,5,4.6,4.9,On-campus,36.38
+Female,EEE,8.35,3,80.76,"AWS, DL, ML, HTML",DataCamp DS,Cloud,DevOps Engineer,Tier 2,8.7,0,4.8,6.0,Off-campus,27.72
+Female,IT,7.35,1,92.97,"SQL, C++, DSA, Java",AWS Certified,Cybersecurity,Data Scientist,Tier 3,9.6,0,7.1,6.7,Off-campus,25.02
+Female,ECE,8.54,1,85.2,"CSS, C++",Google Cloud,IoT,Business Analyst,Tier 1,9.2,0,5.9,5.2,On-campus,36.6
+Male,IT,7.6,1,83.51,"DSA, ML, HTML",None,IoT,Business Analyst,Tier 1,6.6,5,6.5,6.7,PPO,34.23
+Male,IT,7.26,1,95.53,"AWS, Java, C++, HTML",Coursera ML,IoT,Business Analyst,Tier 2,8.4,3,9.9,4.9,Off-campus,36.47
+Male,ECE,7.07,0,84.93,"AWS, DL",AWS Certified,IoT,QA Engineer,Tier 3,8.4,3,4.9,7.4,PPO,24.43
+Female,IT,7.29,0,87.07,"CSS, C++",Google Cloud,Web Dev,Data Scientist,Tier 3,7.2,2,7.2,8.0,On-campus,30.96
+Male,EEE,7.23,0,86.74,"ML, Java, SQL",DataCamp DS,Web Dev,DevOps Engineer,Tier 3,8.0,3,4.6,4.4,PPO,21.91
+Female,MECH,7.62,2,73.62,"SQL, Python, AWS, ML",Google Cloud,AI/ML,Data Scientist,Tier 2,5.6,0,5.9,9.2,On-campus,33.55
+Female,ECE,7.61,0,87.02,"CSS, Python, HTML, SQL",None,Cloud,SDE,Tier 1,5.6,1,7.2,5.1,PPO,34.69
+Male,CIVIL,7.5,0,81.06,"AWS, Python",Coursera ML,Cloud,DevOps Engineer,Tier 1,5.8,0,9.7,5.4,PPO,41.4
+Male,IT,7.81,0,75.05,"CSS, DSA, Java, Python",None,Cloud,Data Scientist,Tier 3,7.9,5,6.3,8.0,Off-campus,32.74
+Female,ECE,8.33,0,81.38,"C++, HTML, Java, Python",Google Cloud,Cloud,DevOps Engineer,Tier 1,7.9,1,4.4,6.8,PPO,31.85
+Male,CSE,8.16,1,81.32,"CSS, ML, Java",AWS Certified,IoT,SDE,Tier 3,7.2,2,6.3,7.0,Off-campus,27.49
+Female,CSE,6.46,0,92.21,"CSS, Python, Java, DSA",Coursera ML,IoT,DevOps Engineer,Tier 2,9.2,4,4.9,4.8,On-campus,34.32
+Female,MECH,5.71,0,77.55,"Java, DL, HTML",Coursera ML,Web Dev,Business Analyst,Tier 2,8.5,3,5.4,8.8,On-campus,31.55
+Female,EEE,8.15,0,79.47,"Java, DSA, CSS, C++",Google Cloud,Data Analytics,QA Engineer,Tier 2,5.9,3,7.7,7.7,Off-campus,34.4
+Female,MECH,6.54,1,86.65,"C++, DSA, DL, AWS",None,Cybersecurity,SDE,Tier 3,7.3,5,4.4,4.8,PPO,24.23
+Female,MECH,7.34,0,75.72,"DSA, SQL, DL",Google Cloud,IoT,DevOps Engineer,Tier 1,6.6,0,6.8,6.2,On-campus,35.93
+Male,MECH,6.68,0,80.39,"SQL, Java, DSA, CSS",Coursera ML,IoT,SDE,Tier 2,7.9,0,7.7,8.9,On-campus,30.87
+Male,MECH,6.24,0,73.35,"SQL, Python, HTML, Java",Google Cloud,IoT,Business Analyst,Tier 3,7.5,1,6.5,7.4,On-campus,28.61
+Female,CIVIL,7.88,0,91.44,"HTML, CSS, Python",Coursera ML,Data Analytics,QA Engineer,Tier 3,6.6,3,4.1,4.7,Off-campus,17.91
+Female,CIVIL,8.03,0,82.89,"CSS, Java",None,Data Analytics,SDE,Tier 2,9.2,5,9.9,6.2,On-campus,37.55
+Male,ECE,7.1,2,84.89,"C++, HTML",AWS Certified,Web Dev,Business Analyst,Tier 2,7.6,2,6.2,5.5,On-campus,32.75
+Male,CSE,5.69,0,91.41,"CSS, DSA",AWS Certified,IoT,Business Analyst,Tier 2,7.1,0,8.7,7.1,On-campus,32.99
+Female,MECH,7.12,0,79.94,"Java, HTML",Google Cloud,Cybersecurity,Business Analyst,Tier 1,7.2,3,6.0,9.1,On-campus,36.32
+Male,ECE,7.77,1,82.82,"HTML, Java, SQL",Coursera ML,Cloud,DevOps Engineer,Tier 1,9.1,4,6.9,6.6,Off-campus,40.45
+Female,CSE,6.46,1,77.61,"HTML, DL, CSS",AWS Certified,IoT,Data Scientist,Tier 3,8.4,5,6.3,6.6,Off-campus,25.46
+Male,IT,7.63,1,77.59,"DSA, AWS, Python, DL",Coursera ML,Web Dev,SDE,Tier 2,7.3,1,6.1,9.4,PPO,30.32
+Female,EEE,7.49,2,78.56,"AWS, C++, Python, SQL",None,Web Dev,Data Scientist,Tier 2,6.5,0,4.1,7.5,On-campus,28.29
+Male,CIVIL,7.91,0,81.55,"Java, SQL",Google Cloud,Cybersecurity,Business Analyst,Tier 1,6.7,0,6.2,7.4,Off-campus,35.75
+Female,IT,7.58,1,82.31,"C++, DL",Coursera ML,AI/ML,Data Scientist,Tier 2,7.0,2,9.3,5.6,PPO,32.57
+Male,CSE,6.82,0,87.02,"ML, Python, Java",Google Cloud,Web Dev,Business Analyst,Tier 3,8.0,0,8.1,7.6,PPO,30.35
+Male,IT,8.34,0,78.76,"CSS, AWS",Coursera ML,Data Analytics,Business Analyst,Tier 2,8.3,5,4.9,7.5,On-campus,32.52
+Female,EEE,7.39,1,87.24,"Java, DL, HTML, C++",Coursera ML,Data Analytics,QA Engineer,Tier 1,6.8,3,7.5,6.4,PPO,37.33
+Male,CSE,7.48,0,88.4,"DL, DSA",None,Cloud,QA Engineer,Tier 3,8.3,3,9.4,9.9,Off-campus,33.41
+Female,IT,6.85,1,81.73,"Python, DSA, C++, ML",Google Cloud,Web Dev,Data Scientist,Tier 3,6.6,3,8.2,9.3,PPO,31.72
+Male,CIVIL,7.19,1,79.37,"CSS, C++",DataCamp DS,Cloud,SDE,Tier 2,6.9,4,4.9,8.5,PPO,33.24
+Female,CIVIL,6.88,0,85.6,"Java, ML, AWS, CSS",Coursera ML,Web Dev,Data Scientist,Tier 3,6.1,4,9.2,7.2,Off-campus,30.35
+Male,ECE,7.38,1,83.58,"Python, Java, AWS",Coursera ML,Cybersecurity,SDE,Tier 2,6.0,0,5.8,6.8,PPO,30.86
+Female,IT,8.7,1,86.54,"CSS, Java, SQL, C++",AWS Certified,IoT,Data Scientist,Tier 2,6.6,4,6.7,5.1,PPO,32.94
+Male,MECH,6.54,1,95.99,"C++, ML",Google Cloud,Web Dev,DevOps Engineer,Tier 1,7.5,4,7.2,5.8,PPO,39.09
+Female,IT,6.37,0,85.48,"DSA, ML, DL, C++",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,6.5,2,9.1,8.6,PPO,31.13
+Male,CSE,8.53,0,80.53,"ML, CSS",None,Data Analytics,SDE,Tier 2,9.0,4,9.6,6.7,On-campus,36.33
+Female,CSE,7.35,1,78.76,"CSS, Java, DL, DSA",DataCamp DS,Cybersecurity,QA Engineer,Tier 2,6.6,1,9.6,9.3,On-campus,36.6
+Female,IT,7.03,3,79.03,"SQL, CSS, Python",None,IoT,SDE,Tier 2,7.7,1,4.0,4.9,Off-campus,27.01
+Female,EEE,8.23,0,74.76,"SQL, Python, DSA",DataCamp DS,IoT,Data Scientist,Tier 3,8.8,1,9.5,7.1,PPO,35.79
+Male,CIVIL,7.08,1,91.53,"C++, HTML",DataCamp DS,Data Analytics,Business Analyst,Tier 3,7.6,0,4.3,7.9,Off-campus,22.59
+Female,CSE,8.78,0,69.37,"CSS, DL, HTML, DSA",Google Cloud,IoT,DevOps Engineer,Tier 3,7.1,3,5.6,7.1,On-campus,28.11
+Male,CIVIL,7.97,2,88.42,"C++, DSA, ML",AWS Certified,Cloud,Business Analyst,Tier 2,7.6,2,7.1,9.3,PPO,34.13
+Female,CSE,7.16,0,78.92,"Python, DSA, Java, CSS",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 3,6.9,0,6.9,9.9,PPO,28.84
+Male,ECE,9.01,0,81.41,"Python, ML, AWS, SQL",Coursera ML,AI/ML,Data Scientist,Tier 2,6.5,3,7.6,4.7,On-campus,35.73
+Female,MECH,7.08,2,78.71,"ML, DL, Python, CSS",Coursera ML,Data Analytics,DevOps Engineer,Tier 3,8.1,2,6.9,4.8,PPO,27.62
+Male,CSE,8.02,0,95.12,"Java, Python, AWS, DL",Coursera ML,Web Dev,SDE,Tier 3,6.9,2,9.6,4.8,PPO,27.65
+Male,CIVIL,7.71,1,85.11,"AWS, Python, CSS",AWS Certified,Web Dev,Business Analyst,Tier 2,8.4,2,5.4,8.1,On-campus,30.44
+Female,ECE,8.41,2,90.53,"DL, HTML, ML",DataCamp DS,Web Dev,Business Analyst,Tier 3,8.3,1,5.6,6.2,Off-campus,28.08
+Male,CSE,8.59,1,94.1,"ML, Java, DL",None,Cybersecurity,Data Scientist,Tier 2,7.7,1,9.5,8.4,Off-campus,38.09
+Male,EEE,7.52,0,86.14,"DSA, Java, C++",None,AI/ML,Business Analyst,Tier 3,8.5,1,4.5,6.4,PPO,21.39
+Female,MECH,6.97,1,76.63,"Python, C++, HTML, DSA",Google Cloud,IoT,Data Scientist,Tier 3,7.0,2,7.7,7.8,On-campus,27.26
+Male,CSE,7.82,2,83.46,"HTML, Java",AWS Certified,AI/ML,QA Engineer,Tier 3,8.3,5,8.1,8.6,Off-campus,33.31
+Male,ECE,7.03,0,79.8,"DSA, C++",DataCamp DS,AI/ML,SDE,Tier 3,8.3,2,7.0,7.3,Off-campus,30.03
+Male,EEE,8.91,0,81.48,"DL, DSA, ML, CSS",Coursera ML,Data Analytics,DevOps Engineer,Tier 1,7.2,1,8.2,7.2,PPO,40.01
+Female,IT,7.6,0,84.34,"ML, C++, DSA",AWS Certified,Cybersecurity,DevOps Engineer,Tier 2,7.1,2,5.0,4.5,Off-campus,32.84
+Male,ECE,7.24,0,84.06,"SQL, CSS",AWS Certified,Web Dev,DevOps Engineer,Tier 1,7.8,1,9.1,6.5,On-campus,41.89
+Female,ECE,7.63,0,87.88,"DSA, Java",DataCamp DS,Data Analytics,QA Engineer,Tier 3,9.5,1,4.8,7.3,Off-campus,24.74
+Male,EEE,6.56,1,88.9,"HTML, DSA",Google Cloud,IoT,SDE,Tier 3,7.3,1,6.4,6.8,On-campus,24.23
+Male,ECE,6.82,2,84.06,"SQL, Python, C++, Java",Google Cloud,AI/ML,Business Analyst,Tier 2,7.0,5,4.5,9.4,On-campus,29.09
+Male,EEE,8.34,0,87.82,"SQL, C++, AWS",Google Cloud,Web Dev,Business Analyst,Tier 2,8.7,3,7.3,9.4,PPO,36.75
+Female,CSE,7.04,1,81.15,"Python, Java, AWS, CSS",Coursera ML,Cybersecurity,SDE,Tier 2,7.6,2,8.0,8.9,Off-campus,34.41
+Male,EEE,6.77,0,94.2,"AWS, HTML",Coursera ML,Cloud,SDE,Tier 2,8.4,0,9.6,6.3,PPO,38.9
+Male,EEE,7.88,2,81.04,"DL, Python, SQL",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,9.0,1,8.4,8.3,Off-campus,34.18
+Female,MECH,8.33,0,93.38,"DSA, C++, HTML, SQL",Google Cloud,AI/ML,Business Analyst,Tier 2,5.6,5,7.2,6.4,PPO,34.45
+Male,EEE,8.0,1,74.67,"HTML, DL, AWS, SQL",DataCamp DS,AI/ML,SDE,Tier 1,7.5,0,9.6,5.4,PPO,37.82
+Female,EEE,8.2,3,82.34,"DSA, C++, CSS, Python",Google Cloud,AI/ML,Business Analyst,Tier 2,7.3,3,6.9,6.1,PPO,31.2
+Female,IT,6.97,0,82.68,"AWS, Java",AWS Certified,Web Dev,SDE,Tier 2,6.5,2,7.4,4.4,Off-campus,33.38
+Male,CSE,6.5,1,86.95,"Python, DL",None,Cybersecurity,Data Scientist,Tier 1,5.6,5,7.6,6.0,PPO,36.46
+Female,MECH,8.55,1,91.03,"HTML, Java",None,Data Analytics,DevOps Engineer,Tier 1,5.9,1,6.5,6.8,On-campus,38.69
+Male,IT,7.27,0,76.25,"C++, Python, CSS",Google Cloud,Web Dev,SDE,Tier 1,7.6,1,9.0,9.7,Off-campus,43.21
+Female,CIVIL,7.32,4,77.24,"DL, C++",DataCamp DS,Cybersecurity,QA Engineer,Tier 1,7.0,1,5.1,5.9,On-campus,33.64
+Female,CSE,8.43,2,75.19,"HTML, DSA, CSS",Coursera ML,Data Analytics,SDE,Tier 2,6.7,5,7.3,9.4,PPO,34.52
+Male,CSE,7.89,1,94.24,"AWS, C++",Google Cloud,AI/ML,Data Scientist,Tier 1,7.6,0,8.3,5.4,PPO,38.03
+Female,CIVIL,7.82,1,87.08,"AWS, CSS, HTML, Java",Google Cloud,Cybersecurity,QA Engineer,Tier 3,6.8,3,9.4,5.1,On-campus,30.58
+Female,EEE,9.02,0,77.41,"DSA, ML, Python",Coursera ML,AI/ML,QA Engineer,Tier 2,8.8,2,9.3,7.1,PPO,39.62
+Female,IT,7.05,0,81.9,"DL, Python, HTML, AWS",Google Cloud,Cybersecurity,SDE,Tier 3,6.9,3,7.1,8.0,Off-campus,26.66
+Female,ECE,8.15,0,93.27,"C++, SQL, DSA, AWS",AWS Certified,IoT,Data Scientist,Tier 2,9.0,1,7.9,4.3,On-campus,32.31
+Female,MECH,7.54,0,83.05,"CSS, C++, Java",Coursera ML,Cloud,QA Engineer,Tier 2,7.5,3,6.4,5.3,Off-campus,31.07
+Male,ECE,7.69,0,82.64,"Java, CSS, ML, C++",AWS Certified,AI/ML,DevOps Engineer,Tier 3,6.8,0,6.8,6.7,Off-campus,27.78
+Female,CIVIL,8.57,0,79.53,"ML, Python",None,AI/ML,DevOps Engineer,Tier 1,6.8,4,9.4,6.0,Off-campus,39.69
+Male,CSE,7.86,2,77.83,"C++, Python",Coursera ML,AI/ML,Business Analyst,Tier 1,9.0,4,9.6,8.3,PPO,41.31
+Female,CSE,7.88,0,93.28,"Java, AWS",Coursera ML,IoT,Business Analyst,Tier 3,8.2,2,9.4,7.1,PPO,33.24
+Male,MECH,8.25,1,96.72,"ML, SQL",DataCamp DS,Web Dev,Data Scientist,Tier 1,6.7,2,4.8,5.0,On-campus,30.07
+Male,CSE,7.24,2,78.1,"C++, CSS, Python, ML",DataCamp DS,Data Analytics,QA Engineer,Tier 2,7.6,3,9.1,9.4,On-campus,40.36
+Female,CSE,6.91,0,94.83,"DSA, CSS",Coursera ML,AI/ML,DevOps Engineer,Tier 2,5.1,2,9.7,5.8,Off-campus,34.39
+Female,MECH,6.77,1,81.59,"HTML, AWS",None,AI/ML,DevOps Engineer,Tier 2,6.2,5,6.2,8.4,PPO,29.45
+Female,IT,6.12,2,88.74,"Python, CSS",Google Cloud,Web Dev,Data Scientist,Tier 1,6.7,0,7.1,8.7,PPO,36.52
+Male,IT,8.94,0,94.87,"Java, C++, SQL, DL",DataCamp DS,Web Dev,QA Engineer,Tier 1,6.7,1,8.7,9.8,PPO,43.12
+Female,MECH,6.73,0,83.98,"C++, CSS, HTML",None,Cloud,Data Scientist,Tier 3,8.7,1,7.4,7.0,On-campus,27.08
+Male,CIVIL,7.35,1,82.7,"Java, DSA",None,Cybersecurity,SDE,Tier 2,5.6,3,10.0,7.7,PPO,37.25
+Male,CSE,7.31,1,90.61,"DSA, CSS",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,6.1,1,6.7,6.0,Off-campus,27.13
+Male,CSE,7.72,2,77.23,"Java, C++, DL, Python",Google Cloud,Cybersecurity,Data Scientist,Tier 1,8.0,3,8.3,8.1,Off-campus,40.68
+Female,CIVIL,8.07,1,93.03,"AWS, C++",DataCamp DS,Web Dev,Data Scientist,Tier 3,7.7,2,8.8,6.8,Off-campus,28.8
+Female,IT,8.1,0,86.0,"Java, ML, C++",None,Web Dev,SDE,Tier 1,7.2,2,7.0,6.6,PPO,37.05
+Male,EEE,7.09,1,80.96,"Java, SQL, ML, C++",AWS Certified,Cloud,Business Analyst,Tier 2,9.6,5,9.1,9.1,Off-campus,41.73
+Male,EEE,7.38,0,80.77,"SQL, AWS",DataCamp DS,Data Analytics,DevOps Engineer,Tier 2,8.1,5,7.3,4.3,Off-campus,35.76
+Female,EEE,7.7,0,75.32,"HTML, ML, Python, DL",None,IoT,Data Scientist,Tier 1,8.7,0,6.5,9.3,On-campus,34.55
+Male,IT,7.33,0,81.25,"HTML, Python, C++",DataCamp DS,IoT,DevOps Engineer,Tier 1,7.4,1,4.6,9.1,On-campus,37.38
+Female,IT,8.63,0,83.15,"C++, DSA",None,IoT,Business Analyst,Tier 1,7.0,5,6.4,7.0,PPO,38.62
+Male,CIVIL,7.84,1,77.57,"HTML, CSS, C++",Google Cloud,Web Dev,Data Scientist,Tier 2,7.0,0,8.4,6.9,PPO,36.0
+Female,CSE,8.01,1,84.68,"Python, CSS, HTML",None,AI/ML,SDE,Tier 1,8.4,4,9.5,6.2,PPO,41.05
+Male,CIVIL,7.96,1,88.31,"AWS, CSS, SQL, HTML",Coursera ML,Cloud,DevOps Engineer,Tier 2,8.3,5,5.5,10.0,PPO,30.51
+Female,CIVIL,8.32,2,83.51,"HTML, Python, C++, SQL",AWS Certified,Data Analytics,SDE,Tier 3,7.3,0,6.1,4.7,PPO,25.69
+Male,IT,7.63,4,89.64,"HTML, SQL",None,IoT,Business Analyst,Tier 2,8.0,3,4.9,7.5,On-campus,28.63
+Female,EEE,6.59,1,79.35,"SQL, CSS, C++, ML",DataCamp DS,Cloud,Business Analyst,Tier 3,8.5,3,8.1,8.1,On-campus,27.64
+Female,ECE,7.78,0,92.02,"DL, HTML",DataCamp DS,Web Dev,DevOps Engineer,Tier 2,6.9,0,9.8,9.6,On-campus,35.43
+Male,CSE,7.04,1,85.85,"Python, HTML, DSA",None,IoT,Business Analyst,Tier 2,7.2,2,7.8,8.7,Off-campus,35.99
+Male,IT,7.13,4,95.82,"DL, Java, CSS, DSA",Coursera ML,Data Analytics,QA Engineer,Tier 1,7.9,4,7.7,7.9,Off-campus,40.28
+Female,EEE,7.91,0,100.0,"Python, CSS, ML",None,Cybersecurity,DevOps Engineer,Tier 2,5.7,0,7.3,4.7,On-campus,32.04
+Male,ECE,8.37,0,81.71,"C++, Java, SQL",Google Cloud,Data Analytics,QA Engineer,Tier 1,8.0,5,4.5,6.2,On-campus,36.31
+Female,ECE,7.51,0,82.0,"DL, ML, CSS, SQL",Coursera ML,AI/ML,Business Analyst,Tier 1,6.4,2,8.4,4.8,PPO,37.03
+Male,IT,7.72,0,83.28,"C++, Python, CSS, DL",None,IoT,DevOps Engineer,Tier 1,8.4,0,7.6,9.3,On-campus,39.99
+Female,MECH,8.69,0,89.17,"CSS, SQL, AWS, HTML",AWS Certified,IoT,QA Engineer,Tier 2,9.6,1,8.0,8.5,PPO,35.41
+Female,CSE,7.67,1,94.28,"CSS, C++",Coursera ML,Cybersecurity,Business Analyst,Tier 1,6.8,5,9.4,8.5,On-campus,42.68
+Female,ECE,9.32,0,80.43,"Python, DL",None,Cybersecurity,Data Scientist,Tier 3,6.2,5,8.7,7.9,PPO,30.29
+Female,IT,7.9,1,87.67,"DSA, HTML, SQL",AWS Certified,IoT,Data Scientist,Tier 3,7.3,3,8.7,7.0,On-campus,31.5
+Female,IT,6.27,0,84.05,"C++, ML, HTML",None,AI/ML,SDE,Tier 2,7.2,1,9.6,4.9,PPO,36.3
+Female,EEE,8.03,2,89.33,"C++, DL",Google Cloud,Cybersecurity,Data Scientist,Tier 1,8.2,1,9.9,6.0,Off-campus,40.01
+Male,MECH,7.77,0,95.57,"DSA, DL, HTML",DataCamp DS,Web Dev,QA Engineer,Tier 3,7.7,5,7.5,4.8,Off-campus,30.64
+Male,CSE,8.4,2,83.32,"C++, HTML, Java, DL",None,IoT,Data Scientist,Tier 2,7.2,4,4.7,8.3,PPO,31.37
+Male,CIVIL,7.97,2,73.31,"DSA, DL",Coursera ML,Data Analytics,DevOps Engineer,Tier 2,7.6,2,6.8,5.0,PPO,31.81
+Female,EEE,7.4,2,90.21,"C++, SQL, ML, AWS",None,Data Analytics,DevOps Engineer,Tier 2,6.4,3,8.7,8.2,Off-campus,32.55
+Female,ECE,6.64,0,79.17,"HTML, Java, SQL",None,AI/ML,DevOps Engineer,Tier 2,8.3,1,4.2,8.2,On-campus,25.37
+Female,ECE,7.35,1,84.0,"ML, C++, DL, Python",None,Web Dev,Data Scientist,Tier 2,9.1,3,4.3,6.8,PPO,29.71
+Female,EEE,6.9,0,90.51,"HTML, ML, DSA, Java",None,Cybersecurity,Data Scientist,Tier 1,6.3,5,4.4,4.8,On-campus,34.01
+Male,IT,7.09,3,87.08,"CSS, DSA, Java, ML",Coursera ML,IoT,SDE,Tier 1,5.9,2,8.4,5.9,Off-campus,36.89
+Male,ECE,7.91,1,84.29,"DSA, AWS, Python, Java",Coursera ML,Data Analytics,Business Analyst,Tier 1,7.1,0,7.0,5.9,Off-campus,39.77
+Female,MECH,8.67,4,80.97,"Python, SQL",None,Data Analytics,SDE,Tier 1,6.3,1,6.2,8.2,PPO,38.66
+Male,CSE,7.78,1,64.7,"DL, DSA, HTML",DataCamp DS,Data Analytics,QA Engineer,Tier 2,6.2,2,4.6,4.7,On-campus,25.34
+Male,MECH,6.66,1,89.89,"AWS, DSA, ML, SQL",None,Data Analytics,DevOps Engineer,Tier 2,6.1,3,8.4,9.0,Off-campus,35.63
+Female,ECE,7.81,1,83.23,"Java, Python, ML, DSA",Coursera ML,Cloud,Data Scientist,Tier 3,7.3,5,5.9,8.6,On-campus,33.15
+Male,CIVIL,8.34,1,95.59,"HTML, Python, AWS",Google Cloud,AI/ML,Business Analyst,Tier 3,7.1,2,5.6,5.1,Off-campus,22.09
+Female,CSE,7.07,1,87.79,"Java, DSA",None,Cybersecurity,Business Analyst,Tier 1,7.9,0,7.9,8.3,PPO,40.41
+Male,CSE,7.41,2,81.21,"ML, AWS, Java, HTML",None,IoT,Data Scientist,Tier 2,6.9,2,7.4,8.0,On-campus,33.12
+Female,EEE,7.51,0,92.47,"Java, ML, DSA, SQL",None,IoT,SDE,Tier 3,6.3,5,6.2,8.5,On-campus,29.44
+Female,EEE,6.95,1,93.06,"C++, CSS, Python",None,IoT,Business Analyst,Tier 3,7.5,3,7.8,5.1,PPO,30.18
+Female,CIVIL,7.95,0,83.47,"C++, Python",AWS Certified,Cybersecurity,SDE,Tier 3,6.4,1,5.6,4.9,PPO,22.89
+Female,IT,7.42,1,93.36,"C++, Python, Java",None,AI/ML,Data Scientist,Tier 3,8.0,1,8.8,5.4,PPO,31.43
+Male,CSE,7.79,2,81.11,"C++, CSS, SQL",Coursera ML,Web Dev,SDE,Tier 1,5.8,4,5.4,6.2,PPO,39.3
+Female,CIVIL,6.88,0,86.12,"DL, Java, DSA",Coursera ML,AI/ML,DevOps Engineer,Tier 2,5.3,3,5.0,8.8,Off-campus,30.25
+Female,EEE,7.19,2,89.0,"ML, HTML",AWS Certified,Data Analytics,Data Scientist,Tier 1,5.9,4,8.7,8.4,On-campus,42.65
+Female,EEE,8.01,3,90.49,"AWS, CSS, DL, DSA",None,Data Analytics,Data Scientist,Tier 3,7.1,4,8.2,9.6,Off-campus,30.88
+Male,CSE,7.24,1,89.35,"CSS, Python, AWS, DSA",DataCamp DS,AI/ML,Business Analyst,Tier 3,7.2,5,5.1,4.4,PPO,23.77
+Female,MECH,8.71,0,82.67,"HTML, ML, SQL",None,AI/ML,Business Analyst,Tier 2,7.6,5,4.7,4.1,Off-campus,28.46
+Male,ECE,7.22,1,92.66,"C++, Python",Coursera ML,Cybersecurity,Business Analyst,Tier 2,6.9,5,9.0,8.2,Off-campus,38.7
+Female,EEE,7.66,2,84.13,"DL, SQL",Google Cloud,Cybersecurity,DevOps Engineer,Tier 1,6.7,0,8.7,5.7,On-campus,40.96
+Male,IT,8.15,0,81.02,"DSA, SQL",Google Cloud,Cloud,DevOps Engineer,Tier 2,8.9,3,6.0,6.0,On-campus,31.52
+Male,IT,6.51,0,81.12,"CSS, DSA",DataCamp DS,IoT,QA Engineer,Tier 1,8.7,1,7.9,7.3,On-campus,42.06
+Female,EEE,6.27,0,98.58,"Python, DL, CSS",None,Cloud,Data Scientist,Tier 1,8.5,3,4.7,4.6,PPO,35.77
+Male,MECH,6.43,0,79.81,"Python, HTML, C++",AWS Certified,IoT,Business Analyst,Tier 3,7.8,5,7.0,7.9,PPO,30.56
+Female,MECH,8.38,0,94.04,"HTML, DSA, DL, AWS",None,Data Analytics,Data Scientist,Tier 1,7.9,0,4.1,6.0,On-campus,31.67
+Female,CIVIL,7.11,3,77.05,"DL, ML, AWS, CSS",DataCamp DS,Cloud,SDE,Tier 3,6.7,3,6.3,7.8,Off-campus,25.82
+Female,IT,9.29,0,88.42,"DSA, AWS, Java, SQL",DataCamp DS,Cloud,DevOps Engineer,Tier 1,7.6,3,4.4,9.0,On-campus,34.86
+Male,CIVIL,7.11,2,87.08,"ML, HTML",DataCamp DS,Web Dev,QA Engineer,Tier 1,6.6,4,6.9,5.0,PPO,38.14
+Male,IT,7.63,1,96.35,"Java, C++, SQL, ML",Google Cloud,AI/ML,SDE,Tier 2,6.4,3,6.5,9.6,Off-campus,31.32
+Female,ECE,8.58,2,80.42,"DSA, ML, C++",None,Cybersecurity,Data Scientist,Tier 2,5.9,4,6.7,7.2,PPO,34.29
+Female,ECE,8.9,3,78.49,"SQL, HTML",None,Cloud,DevOps Engineer,Tier 3,7.9,4,4.3,9.5,On-campus,24.75
+Male,CSE,8.94,1,84.18,"CSS, DSA, C++, SQL",AWS Certified,Cybersecurity,Business Analyst,Tier 2,7.7,2,6.2,5.2,On-campus,32.74
+Female,CIVIL,8.35,0,96.65,"DSA, AWS, DL",DataCamp DS,IoT,SDE,Tier 1,7.2,5,8.5,7.6,Off-campus,41.66
+Female,EEE,8.22,0,78.81,"CSS, HTML, AWS",DataCamp DS,Cloud,DevOps Engineer,Tier 3,7.1,0,6.2,6.4,On-campus,28.4
+Female,CIVIL,7.91,4,66.88,"C++, CSS, Python, DL",Coursera ML,IoT,Data Scientist,Tier 3,5.7,4,8.3,8.6,PPO,33.19
+Male,EEE,8.04,0,85.42,"DSA, CSS, C++",Coursera ML,Cloud,Data Scientist,Tier 3,7.8,3,6.2,7.6,PPO,30.53
+Male,MECH,7.11,0,91.65,"C++, ML, SQL, HTML",Google Cloud,Data Analytics,SDE,Tier 1,7.2,4,6.5,7.0,PPO,40.21
+Male,CIVIL,6.93,0,77.9,"Java, DSA, AWS",None,Web Dev,SDE,Tier 2,8.4,4,7.4,9.5,Off-campus,36.06
+Female,MECH,7.5,0,90.94,"CSS, AWS",AWS Certified,IoT,SDE,Tier 3,7.6,4,9.7,6.3,PPO,29.63
+Female,ECE,7.38,1,77.75,"SQL, CSS",AWS Certified,AI/ML,QA Engineer,Tier 1,8.2,1,4.7,5.3,On-campus,30.92
+Female,ECE,7.18,0,83.97,"CSS, Java, AWS",DataCamp DS,AI/ML,Business Analyst,Tier 2,7.5,1,4.2,7.6,Off-campus,24.34
+Male,CSE,7.99,0,90.27,"DL, Python, Java, C++",AWS Certified,Data Analytics,DevOps Engineer,Tier 2,7.7,1,7.6,7.7,PPO,32.0
+Female,CIVIL,8.17,0,76.69,"AWS, CSS",DataCamp DS,Data Analytics,Data Scientist,Tier 3,8.4,1,9.7,6.6,PPO,32.05
+Female,MECH,7.56,3,86.27,"C++, SQL, AWS",None,AI/ML,Data Scientist,Tier 1,7.3,2,9.9,6.9,On-campus,40.86
+Female,EEE,8.53,0,93.5,"DL, DSA",AWS Certified,IoT,Business Analyst,Tier 2,8.0,4,6.9,9.8,On-campus,35.51
+Female,ECE,6.7,1,88.32,"AWS, CSS, C++",DataCamp DS,AI/ML,SDE,Tier 1,7.1,2,6.8,8.4,Off-campus,38.86
+Male,ECE,7.36,0,79.96,"C++, Python, AWS, CSS",None,Web Dev,SDE,Tier 2,7.4,3,7.9,4.7,PPO,32.07
+Male,EEE,7.0,0,95.63,"AWS, C++",None,Cloud,Data Scientist,Tier 3,9.1,5,7.3,5.3,PPO,26.06
+Female,MECH,6.19,0,89.61,"Java, ML, SQL, AWS",DataCamp DS,Web Dev,Business Analyst,Tier 3,8.1,0,7.8,9.9,On-campus,29.86
+Male,MECH,7.44,0,71.98,"ML, Python, C++, DL",DataCamp DS,AI/ML,Data Scientist,Tier 2,7.0,2,9.2,8.4,Off-campus,35.0
+Male,CIVIL,7.41,0,91.05,"CSS, HTML, Python, ML",Google Cloud,Cloud,SDE,Tier 1,7.9,1,8.5,9.5,On-campus,41.02
+Female,CIVIL,8.56,1,81.0,"C++, DSA, SQL, Python",None,AI/ML,DevOps Engineer,Tier 2,6.2,1,7.0,5.8,On-campus,34.31
+Female,IT,7.94,0,86.38,"DL, C++, Python",DataCamp DS,Web Dev,SDE,Tier 1,7.3,3,6.8,8.5,Off-campus,38.4
+Male,IT,6.78,1,92.06,"ML, DSA",None,Web Dev,DevOps Engineer,Tier 2,6.5,4,7.8,8.3,PPO,38.24
+Female,CSE,8.8,0,81.15,"DL, AWS",AWS Certified,IoT,QA Engineer,Tier 3,8.0,0,6.7,5.8,PPO,29.57
+Male,ECE,8.35,1,73.48,"AWS, SQL, DSA",Coursera ML,IoT,Business Analyst,Tier 1,7.3,2,6.7,7.3,PPO,36.7
+Female,CIVIL,7.91,0,95.54,"DSA, ML",Coursera ML,Web Dev,QA Engineer,Tier 3,7.8,4,4.1,7.8,Off-campus,22.66
+Male,MECH,7.34,1,93.15,"HTML, SQL, DSA",DataCamp DS,Cloud,SDE,Tier 1,8.3,4,5.0,6.9,Off-campus,35.41
+Female,EEE,6.83,2,84.39,"DSA, Java, HTML",DataCamp DS,IoT,Business Analyst,Tier 2,7.0,5,6.9,9.0,Off-campus,36.67
+Male,MECH,7.24,1,90.97,"CSS, SQL",None,IoT,SDE,Tier 3,7.1,5,8.9,9.0,Off-campus,31.63
+Male,ECE,8.26,0,82.41,"AWS, HTML, C++, CSS",DataCamp DS,Cybersecurity,Business Analyst,Tier 3,7.5,2,5.7,9.1,Off-campus,29.47
+Male,IT,8.82,1,85.68,"SQL, DSA, C++, AWS",None,Cybersecurity,Business Analyst,Tier 1,6.6,2,7.1,8.8,On-campus,41.88
+Female,MECH,8.58,1,83.99,"Python, SQL",DataCamp DS,IoT,SDE,Tier 1,7.5,2,6.1,6.9,PPO,35.32
+Male,CSE,7.16,1,82.7,"HTML, CSS, DL",None,AI/ML,SDE,Tier 1,7.5,2,4.6,6.3,Off-campus,32.14
+Male,ECE,6.72,1,87.52,"Python, SQL",DataCamp DS,Cloud,Business Analyst,Tier 3,7.7,1,9.7,9.0,PPO,34.02
+Female,IT,7.6,0,76.54,"DSA, ML, CSS",Google Cloud,Data Analytics,Business Analyst,Tier 2,7.9,4,9.1,6.9,Off-campus,36.94
+Female,EEE,6.26,1,83.24,"Java, SQL, DL",None,IoT,SDE,Tier 1,5.9,4,4.5,5.5,PPO,30.92
+Male,IT,7.73,1,87.2,"CSS, ML",Google Cloud,Cybersecurity,SDE,Tier 2,6.2,1,8.3,7.0,On-campus,33.29
+Male,CSE,7.4,2,97.87,"HTML, Python, AWS",Google Cloud,Cloud,Data Scientist,Tier 1,6.3,4,6.1,4.9,PPO,34.86
+Female,ECE,7.17,2,76.83,"DSA, ML",Google Cloud,Cloud,Data Scientist,Tier 2,7.6,2,10.0,8.1,PPO,34.77
+Female,EEE,6.38,1,88.64,"Java, SQL, CSS, HTML",Google Cloud,Cybersecurity,Data Scientist,Tier 1,7.2,0,5.8,6.0,Off-campus,35.5
+Female,CSE,7.86,0,89.41,"CSS, Python, DSA",AWS Certified,Cloud,QA Engineer,Tier 2,5.2,5,5.4,5.6,PPO,28.57
+Female,IT,7.13,1,71.86,"ML, Java, C++, AWS",Coursera ML,Cloud,Business Analyst,Tier 3,9.4,5,7.4,9.7,On-campus,26.15
+Female,CSE,6.68,1,87.87,"SQL, DL, ML",AWS Certified,Cybersecurity,DevOps Engineer,Tier 1,5.5,4,9.0,8.7,On-campus,41.28
+Male,ECE,5.49,1,91.16,"AWS, Python, DL, HTML",DataCamp DS,Web Dev,QA Engineer,Tier 1,7.5,0,5.2,8.7,On-campus,33.15
+Female,CIVIL,7.48,1,89.12,"Java, HTML",DataCamp DS,IoT,Business Analyst,Tier 3,8.1,5,8.3,7.7,Off-campus,34.7
+Male,CSE,8.74,0,84.41,"SQL, C++",Coursera ML,AI/ML,DevOps Engineer,Tier 1,6.8,0,4.4,9.0,Off-campus,33.82
+Male,CSE,8.66,1,87.33,"Python, HTML, DSA",Coursera ML,Data Analytics,Data Scientist,Tier 1,8.1,1,9.5,8.6,Off-campus,40.94
+Male,IT,7.18,0,86.19,"C++, SQL",Coursera ML,AI/ML,DevOps Engineer,Tier 3,6.5,3,4.5,7.6,Off-campus,25.18
+Female,IT,7.08,0,73.17,"Python, AWS, HTML",Google Cloud,Web Dev,SDE,Tier 3,7.7,4,9.5,9.8,Off-campus,32.61
+Male,EEE,7.83,1,86.35,"Java, Python, AWS, CSS",AWS Certified,Web Dev,SDE,Tier 2,5.3,1,6.9,5.1,On-campus,28.7
+Male,IT,6.8,1,82.43,"SQL, Java",DataCamp DS,Cloud,Business Analyst,Tier 3,8.7,1,6.7,9.7,PPO,30.04
+Female,MECH,7.71,1,80.07,"ML, Python, DSA",AWS Certified,AI/ML,QA Engineer,Tier 3,7.5,0,9.8,6.4,On-campus,28.95
+Male,ECE,8.04,0,100.0,"Java, AWS",AWS Certified,Web Dev,Data Scientist,Tier 1,5.9,4,9.9,7.2,Off-campus,39.56
+Male,ECE,8.36,1,93.77,"Python, CSS, HTML, C++",AWS Certified,AI/ML,Business Analyst,Tier 3,8.1,1,7.9,4.7,On-campus,31.31
+Female,CIVIL,7.43,1,76.95,"AWS, HTML, SQL",Coursera ML,Web Dev,Data Scientist,Tier 1,9.1,2,4.8,7.2,PPO,36.35
+Male,CIVIL,7.36,1,87.43,"CSS, Java, DL",Coursera ML,Data Analytics,SDE,Tier 3,6.6,1,7.0,7.7,Off-campus,26.98
+Male,ECE,6.89,0,95.21,"CSS, DL",DataCamp DS,Web Dev,QA Engineer,Tier 3,7.3,2,7.2,10.0,On-campus,29.76
+Male,CIVIL,6.92,0,74.53,"DL, C++",DataCamp DS,AI/ML,QA Engineer,Tier 2,7.0,3,7.1,9.9,On-campus,35.75
+Female,EEE,7.34,0,85.54,"AWS, DL",DataCamp DS,Cloud,SDE,Tier 3,6.7,2,7.4,9.8,PPO,31.86
+Female,IT,7.76,1,85.87,"DL, CSS, ML",AWS Certified,AI/ML,DevOps Engineer,Tier 3,6.6,2,4.1,6.1,Off-campus,21.03
+Female,ECE,8.14,3,76.08,"ML, CSS",Coursera ML,Cybersecurity,QA Engineer,Tier 1,6.9,0,8.3,9.9,Off-campus,41.94
+Male,CIVIL,6.94,0,87.66,"DSA, CSS",Google Cloud,AI/ML,DevOps Engineer,Tier 1,6.9,1,8.3,6.7,PPO,37.66
+Male,ECE,8.54,1,92.81,"AWS, DL, ML, Python",AWS Certified,Data Analytics,Data Scientist,Tier 2,7.1,3,4.7,9.1,PPO,31.05
+Female,MECH,7.31,0,95.56,"C++, CSS, HTML",None,IoT,QA Engineer,Tier 3,7.1,1,7.4,5.3,PPO,26.93
+Male,CSE,7.49,2,83.25,"HTML, AWS, SQL",AWS Certified,Data Analytics,SDE,Tier 1,8.3,2,7.4,7.0,PPO,38.65
+Male,IT,6.98,0,100.0,"SQL, HTML, DL, Java",Coursera ML,Data Analytics,DevOps Engineer,Tier 3,8.2,5,8.1,9.8,Off-campus,33.75
+Female,ECE,5.8,1,70.59,"Python, C++, AWS",None,Web Dev,Data Scientist,Tier 2,6.0,2,4.5,9.7,Off-campus,30.41
+Female,CSE,8.12,0,87.49,"C++, Java, CSS, SQL",AWS Certified,Data Analytics,Data Scientist,Tier 1,6.9,1,7.8,8.1,On-campus,36.47
+Male,CIVIL,8.02,1,75.11,"SQL, Java, C++",Coursera ML,AI/ML,QA Engineer,Tier 1,8.8,3,5.7,8.8,On-campus,35.42
+Male,CSE,7.3,0,85.63,"ML, AWS, Python",Coursera ML,IoT,QA Engineer,Tier 2,7.8,5,7.0,5.1,On-campus,31.6
+Male,IT,7.55,0,81.35,"ML, C++",Google Cloud,Cloud,Business Analyst,Tier 3,7.8,3,8.6,8.3,Off-campus,35.16
+Female,ECE,7.86,2,88.55,"CSS, Python, SQL, DSA",AWS Certified,Data Analytics,Business Analyst,Tier 1,7.7,0,8.2,7.7,Off-campus,38.0
+Female,MECH,6.41,1,84.11,"CSS, DL, Python, ML",Coursera ML,AI/ML,QA Engineer,Tier 1,7.2,2,4.7,4.5,Off-campus,31.47
+Female,CIVIL,7.13,1,79.22,"DL, DSA",DataCamp DS,Web Dev,Business Analyst,Tier 2,7.5,2,7.5,4.7,On-campus,30.63
+Female,ECE,8.06,0,79.68,"SQL, DSA",Coursera ML,Web Dev,SDE,Tier 2,7.1,0,9.8,4.7,PPO,33.75
+Male,IT,6.62,1,98.53,"ML, CSS, HTML",Google Cloud,Cloud,SDE,Tier 2,8.4,1,4.9,8.3,PPO,30.49
+Female,CIVIL,7.71,0,88.1,"DSA, CSS, AWS",Coursera ML,Cloud,Business Analyst,Tier 3,7.1,2,9.1,4.9,PPO,32.18
+Female,EEE,6.55,0,73.09,"DSA, DL",AWS Certified,AI/ML,QA Engineer,Tier 3,7.4,1,8.2,6.8,PPO,29.51
+Female,CSE,7.83,0,88.86,"DL, C++",AWS Certified,Cloud,SDE,Tier 3,8.2,3,8.6,6.1,PPO,28.66
+Female,IT,7.48,0,83.64,"DL, Java, CSS, C++",None,Cloud,Data Scientist,Tier 2,7.2,5,5.7,7.3,Off-campus,37.29
+Female,EEE,6.37,1,85.03,"DSA, ML, SQL",AWS Certified,Web Dev,QA Engineer,Tier 1,7.4,5,5.7,8.2,On-campus,37.09
+Male,ECE,8.32,1,90.74,"DL, HTML, Python",None,AI/ML,DevOps Engineer,Tier 3,7.1,5,9.4,8.1,PPO,32.12
+Male,MECH,6.99,0,93.28,"HTML, AWS, ML, SQL",DataCamp DS,IoT,DevOps Engineer,Tier 2,7.4,4,6.2,7.1,PPO,34.75
+Female,CIVIL,6.93,1,78.99,"Python, SQL",Google Cloud,Cloud,QA Engineer,Tier 3,7.2,0,4.4,6.8,PPO,21.77
+Male,CSE,7.64,3,84.79,"DL, AWS, HTML, C++",DataCamp DS,AI/ML,Business Analyst,Tier 1,7.0,5,7.6,6.4,Off-campus,42.33
+Female,CIVIL,8.3,1,81.18,"ML, DL, Java",None,Data Analytics,SDE,Tier 1,6.8,2,4.7,9.2,PPO,34.22
+Female,ECE,6.79,0,89.18,"SQL, ML, CSS, AWS",Coursera ML,Web Dev,SDE,Tier 2,7.3,0,8.8,6.0,On-campus,36.58
+Male,CIVIL,7.54,0,83.37,"DSA, SQL",Coursera ML,IoT,QA Engineer,Tier 1,8.5,3,7.9,5.6,Off-campus,39.24
+Male,CSE,7.8,0,85.2,"Java, SQL, CSS",DataCamp DS,Web Dev,Data Scientist,Tier 2,8.1,3,9.2,8.5,Off-campus,40.37
+Female,ECE,7.99,1,83.11,"ML, HTML, CSS",Coursera ML,Web Dev,Business Analyst,Tier 2,5.9,3,8.7,6.2,Off-campus,38.45
+Female,CIVIL,7.62,2,84.26,"Python, SQL, C++",None,Cybersecurity,Data Scientist,Tier 2,7.1,3,4.7,9.1,PPO,28.7
+Female,MECH,7.24,0,96.93,"SQL, HTML, DL, ML",Google Cloud,AI/ML,QA Engineer,Tier 2,6.9,4,6.3,6.0,PPO,33.78
+Male,IT,6.92,0,100.0,"CSS, AWS, SQL, DSA",AWS Certified,Data Analytics,QA Engineer,Tier 1,5.9,1,8.6,8.2,PPO,36.94
+Female,ECE,7.56,1,87.64,"Java, C++, AWS, HTML",None,Cloud,Data Scientist,Tier 1,7.8,1,6.5,4.3,PPO,32.87
+Female,IT,6.75,1,84.3,"Python, Java, SQL",None,Data Analytics,DevOps Engineer,Tier 1,7.4,5,9.8,6.3,On-campus,40.34
+Female,ECE,5.46,0,73.83,"Java, DL, DSA, Python",AWS Certified,AI/ML,QA Engineer,Tier 1,9.5,4,8.4,6.1,Off-campus,40.61
+Male,MECH,7.81,0,79.68,"SQL, DSA, AWS",AWS Certified,Web Dev,Business Analyst,Tier 2,7.2,1,4.1,8.9,PPO,29.53
+Female,IT,8.13,0,84.11,"Python, DSA, HTML, SQL",Google Cloud,Cybersecurity,Data Scientist,Tier 2,6.7,3,9.3,9.8,On-campus,38.12
+Female,EEE,5.85,0,79.99,"CSS, DL",Google Cloud,AI/ML,DevOps Engineer,Tier 1,6.6,1,4.6,6.8,Off-campus,32.82
+Male,CSE,6.79,1,80.73,"ML, Python, HTML",Google Cloud,IoT,Data Scientist,Tier 3,7.0,0,4.8,8.9,Off-campus,25.81
+Female,EEE,7.93,1,96.03,"ML, DL, C++, AWS",Coursera ML,IoT,DevOps Engineer,Tier 3,8.1,5,8.4,8.2,Off-campus,33.38
+Female,CIVIL,8.94,0,85.2,"ML, DL",None,AI/ML,DevOps Engineer,Tier 3,8.2,1,9.2,9.8,PPO,35.9
+Male,MECH,7.51,0,85.83,"ML, DL",AWS Certified,Cloud,Business Analyst,Tier 1,10.4,0,7.2,8.9,Off-campus,43.59
+Female,EEE,6.99,1,80.28,"Java, ML",None,Data Analytics,QA Engineer,Tier 2,6.3,2,5.7,4.5,PPO,28.27
+Male,ECE,7.37,1,93.24,"SQL, DSA, AWS, CSS",None,Data Analytics,DevOps Engineer,Tier 2,7.6,0,6.1,8.3,On-campus,30.64
+Male,CIVIL,8.46,1,83.51,"ML, DL, AWS, SQL",Google Cloud,Cloud,QA Engineer,Tier 3,6.8,0,6.1,7.2,Off-campus,27.37
+Female,CIVIL,7.05,1,81.35,"CSS, HTML, SQL, ML",Google Cloud,Cybersecurity,Business Analyst,Tier 3,7.9,3,6.0,4.1,On-campus,22.17
+Female,EEE,6.94,1,73.93,"DSA, HTML, C++",None,Web Dev,QA Engineer,Tier 2,8.9,3,5.5,5.5,PPO,28.67
+Female,EEE,7.16,0,84.57,"ML, C++",Google Cloud,Web Dev,SDE,Tier 3,8.4,5,7.7,9.5,PPO,33.64
+Female,MECH,6.83,0,81.14,"HTML, C++, Python",Coursera ML,IoT,DevOps Engineer,Tier 3,6.3,3,9.4,9.6,PPO,32.41
+Male,CSE,7.59,1,96.79,"DL, HTML, C++",AWS Certified,Cybersecurity,Business Analyst,Tier 2,8.2,0,5.8,8.8,Off-campus,29.52
+Female,EEE,8.64,1,97.91,"CSS, Python",None,Cloud,Data Scientist,Tier 3,5.4,4,5.1,9.9,Off-campus,24.28
+Male,EEE,7.73,0,76.35,"DSA, Python",AWS Certified,AI/ML,Business Analyst,Tier 3,5.1,3,9.0,8.8,On-campus,31.56
+Female,IT,7.32,0,77.14,"HTML, ML, C++, DL",Coursera ML,Data Analytics,DevOps Engineer,Tier 1,7.3,3,8.5,4.1,PPO,40.38
+Female,ECE,7.3,3,83.07,"Python, SQL",Google Cloud,AI/ML,Business Analyst,Tier 3,8.1,0,9.6,5.7,On-campus,32.54
+Female,IT,6.41,1,79.29,"AWS, DL, ML",DataCamp DS,Data Analytics,Data Scientist,Tier 1,7.8,2,5.0,4.2,PPO,32.59
+Male,IT,8.12,0,86.52,"DL, C++, DSA, SQL",Coursera ML,AI/ML,SDE,Tier 2,9.4,2,4.9,4.6,PPO,33.01
+Female,CIVIL,7.45,4,82.71,"Python, Java",DataCamp DS,Cloud,DevOps Engineer,Tier 1,7.6,1,7.2,5.3,On-campus,36.37
+Female,CSE,7.37,0,86.96,"DSA, DL, Python, HTML",AWS Certified,Cloud,DevOps Engineer,Tier 2,7.4,5,7.7,7.0,PPO,34.32
+Female,ECE,9.74,1,92.11,"CSS, DL, C++, Java",None,Cybersecurity,Business Analyst,Tier 1,8.7,2,6.9,9.1,On-campus,35.54
+Female,MECH,7.71,2,77.55,"CSS, C++, Python, SQL",Google Cloud,AI/ML,QA Engineer,Tier 1,7.1,3,7.6,9.2,Off-campus,39.54
+Male,MECH,6.97,1,91.97,"HTML, SQL, Java",Coursera ML,AI/ML,QA Engineer,Tier 1,7.9,4,5.1,7.7,On-campus,37.59
+Female,EEE,7.2,0,79.9,"CSS, DL",Google Cloud,Cybersecurity,Data Scientist,Tier 3,7.9,1,6.9,9.6,On-campus,32.26
+Male,EEE,8.3,0,100.0,"HTML, DSA, Java, Python",DataCamp DS,Cybersecurity,SDE,Tier 3,6.5,5,7.9,7.0,PPO,28.34
+Male,MECH,7.58,0,96.35,"Python, CSS",DataCamp DS,Cloud,SDE,Tier 3,7.9,4,6.6,9.3,On-campus,30.48
+Male,EEE,6.49,0,84.21,"CSS, DL",None,Cloud,Business Analyst,Tier 3,9.7,4,8.1,6.7,Off-campus,32.26
+Male,CSE,8.14,0,78.25,"C++, HTML",DataCamp DS,IoT,Business Analyst,Tier 3,8.6,3,6.7,5.7,Off-campus,27.47
+Male,IT,7.03,2,76.92,"Java, CSS, ML, SQL",None,AI/ML,QA Engineer,Tier 1,6.7,0,6.0,9.5,Off-campus,32.28
+Male,EEE,8.81,0,91.12,"HTML, DSA",Coursera ML,Cloud,SDE,Tier 3,9.8,0,5.8,6.3,Off-campus,26.93
+Female,CIVIL,8.26,1,84.79,"SQL, DL, DSA",None,Cloud,SDE,Tier 2,8.2,0,6.5,7.0,On-campus,33.58
+Male,EEE,7.19,0,91.49,"DSA, AWS",DataCamp DS,AI/ML,SDE,Tier 1,7.9,2,4.1,6.0,Off-campus,30.81
+Male,ECE,8.4,0,100.0,"C++, Java",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.4,0,8.0,8.0,On-campus,39.25
+Male,CSE,7.55,1,79.61,"CSS, Java, ML, Python",None,AI/ML,Data Scientist,Tier 2,8.2,5,9.1,10.0,On-campus,36.89
+Female,ECE,8.1,1,76.39,"HTML, AWS, CSS",Google Cloud,Web Dev,Business Analyst,Tier 3,7.6,3,6.1,4.2,PPO,19.94
+Female,ECE,7.84,1,86.35,"HTML, SQL, ML, Python",AWS Certified,AI/ML,QA Engineer,Tier 2,7.5,2,4.3,9.4,On-campus,32.6
+Male,CIVIL,6.91,1,93.01,"SQL, HTML, CSS",None,Web Dev,DevOps Engineer,Tier 1,7.4,5,9.9,4.0,On-campus,40.56
+Female,CSE,7.05,2,78.42,"SQL, C++, Java",Google Cloud,AI/ML,QA Engineer,Tier 1,8.5,0,5.6,6.2,PPO,37.86
+Male,CSE,8.22,3,85.24,"SQL, HTML",AWS Certified,Web Dev,Data Scientist,Tier 1,8.4,5,4.8,5.0,Off-campus,36.38
+Male,CSE,7.27,0,94.59,"ML, DSA, Python",None,Web Dev,Data Scientist,Tier 2,7.4,4,6.2,8.5,Off-campus,32.34
+Female,CSE,7.22,0,73.57,"C++, HTML, Python",Coursera ML,AI/ML,Business Analyst,Tier 3,6.0,3,8.4,4.3,On-campus,27.35
+Male,CSE,6.83,1,86.65,"C++, DSA",Google Cloud,IoT,DevOps Engineer,Tier 1,7.5,3,5.8,7.3,PPO,37.26
+Female,CIVIL,7.8,0,81.22,"Java, DL, ML",Coursera ML,Cloud,SDE,Tier 3,6.8,5,7.4,5.8,On-campus,30.21
+Female,EEE,8.94,3,85.87,"Python, ML",DataCamp DS,Data Analytics,DevOps Engineer,Tier 1,7.0,1,6.5,4.8,On-campus,36.33
+Male,ECE,6.75,1,89.97,"SQL, HTML, ML, DL",None,Cloud,DevOps Engineer,Tier 3,7.4,3,4.7,8.6,Off-campus,27.52
+Male,CSE,7.52,0,86.55,"Java, DSA, AWS",None,Web Dev,DevOps Engineer,Tier 2,6.4,4,6.0,5.3,PPO,29.64
+Female,EEE,8.49,0,77.93,"DL, ML, DSA",Google Cloud,AI/ML,Business Analyst,Tier 1,5.9,3,8.3,5.3,On-campus,36.67
+Male,EEE,7.44,0,81.49,"CSS, Java, SQL",None,AI/ML,Data Scientist,Tier 1,7.8,1,7.7,5.7,Off-campus,37.55
+Male,ECE,7.82,0,94.99,"AWS, C++, DL, SQL",DataCamp DS,AI/ML,SDE,Tier 1,7.5,3,4.7,7.5,On-campus,35.52
+Male,CIVIL,6.76,1,87.3,"Java, ML, C++, DSA",None,AI/ML,DevOps Engineer,Tier 2,7.5,3,5.0,8.0,Off-campus,27.98
+Female,MECH,7.8,1,90.88,"AWS, Python",AWS Certified,IoT,SDE,Tier 2,8.0,1,7.8,4.1,PPO,29.3
+Female,MECH,7.37,0,86.75,"C++, Java, DL, CSS",Coursera ML,Data Analytics,DevOps Engineer,Tier 3,6.8,3,8.9,5.5,On-campus,30.4
+Male,EEE,8.19,1,90.66,"Python, ML, Java",DataCamp DS,Cybersecurity,Data Scientist,Tier 2,7.8,5,6.1,6.6,PPO,31.67
+Female,IT,8.33,1,82.23,"Python, DSA",DataCamp DS,Web Dev,SDE,Tier 1,8.8,2,7.6,6.0,Off-campus,38.55
+Female,IT,9.31,0,79.63,"HTML, DSA",Coursera ML,Data Analytics,QA Engineer,Tier 3,7.2,5,5.0,9.3,PPO,27.33
+Female,ECE,7.91,0,90.35,"DL, Python, ML",Coursera ML,Cloud,Data Scientist,Tier 2,9.4,3,5.9,8.7,PPO,36.6
+Female,MECH,7.73,2,92.89,"ML, SQL, AWS",DataCamp DS,Cybersecurity,SDE,Tier 3,7.5,0,4.1,7.8,PPO,26.0
+Female,EEE,7.64,3,78.6,"DSA, AWS, Python, CSS",Coursera ML,Cybersecurity,DevOps Engineer,Tier 3,6.6,0,8.6,6.0,On-campus,26.09
+Male,CIVIL,7.25,1,80.97,"SQL, C++, Python",Google Cloud,AI/ML,DevOps Engineer,Tier 3,8.3,2,6.4,8.2,Off-campus,26.82
+Male,MECH,7.74,1,83.86,"AWS, Java",Coursera ML,Data Analytics,Data Scientist,Tier 1,7.4,3,8.9,9.1,PPO,44.15
+Male,EEE,7.29,0,96.34,"SQL, ML",AWS Certified,Cloud,Data Scientist,Tier 1,8.6,4,8.3,7.6,On-campus,42.26
+Female,EEE,7.62,0,88.94,"Java, ML, HTML",AWS Certified,AI/ML,DevOps Engineer,Tier 2,7.9,3,9.0,8.7,Off-campus,37.38
+Female,CSE,8.42,2,75.73,"SQL, DL",Google Cloud,AI/ML,SDE,Tier 1,7.2,0,5.7,8.5,Off-campus,34.31
+Male,CIVIL,6.8,1,84.35,"CSS, DSA, ML",Coursera ML,IoT,QA Engineer,Tier 3,9.0,1,5.1,7.4,Off-campus,23.76
+Female,CSE,8.3,0,83.28,"AWS, HTML, DSA",AWS Certified,Web Dev,Business Analyst,Tier 3,7.0,2,9.8,5.9,PPO,30.35
+Male,ECE,8.42,1,76.79,"C++, AWS",None,Cybersecurity,Data Scientist,Tier 1,5.3,1,8.3,8.5,PPO,40.58
+Male,CSE,7.42,0,84.27,"HTML, SQL",Coursera ML,Cloud,DevOps Engineer,Tier 3,8.4,4,9.0,5.2,PPO,33.82
+Male,CSE,6.01,1,82.97,"HTML, C++",Google Cloud,Cybersecurity,SDE,Tier 1,7.8,3,4.1,8.7,Off-campus,32.89
+Female,MECH,7.07,0,82.47,"Python, HTML, AWS, DSA",Coursera ML,Data Analytics,Data Scientist,Tier 3,8.8,4,6.1,8.8,Off-campus,26.51
+Female,IT,8.41,1,82.15,"C++, DSA, Python, AWS",DataCamp DS,Web Dev,SDE,Tier 2,6.6,1,8.5,8.9,PPO,35.91
+Male,EEE,7.48,0,95.3,"SQL, DL, CSS",DataCamp DS,AI/ML,Data Scientist,Tier 2,7.3,3,4.5,6.8,PPO,31.13
+Male,CIVIL,6.8,0,82.45,"ML, DL, AWS",AWS Certified,Web Dev,DevOps Engineer,Tier 1,7.1,5,7.4,5.2,Off-campus,34.59
+Male,CSE,7.15,1,85.35,"AWS, Python",DataCamp DS,AI/ML,SDE,Tier 1,8.4,5,6.6,4.6,Off-campus,39.46
+Male,CIVIL,8.09,3,84.59,"AWS, ML, DL, Python",Google Cloud,Web Dev,DevOps Engineer,Tier 1,8.2,4,4.1,8.5,On-campus,35.28
+Female,IT,7.88,1,81.46,"HTML, DL, CSS",AWS Certified,AI/ML,SDE,Tier 1,7.7,5,5.4,9.3,On-campus,36.66
+Female,IT,7.33,0,85.56,"DSA, ML",Google Cloud,Cybersecurity,Data Scientist,Tier 1,7.7,5,5.7,7.9,PPO,34.12
+Male,CSE,7.24,0,85.46,"ML, Java, HTML",Google Cloud,Cybersecurity,Business Analyst,Tier 3,6.3,0,4.7,4.9,Off-campus,23.03
+Male,ECE,7.23,0,85.56,"DL, DSA",DataCamp DS,Cybersecurity,Business Analyst,Tier 2,8.3,5,7.8,9.6,Off-campus,36.51
+Female,CSE,6.85,1,78.99,"AWS, HTML, Python, Java",DataCamp DS,Cybersecurity,QA Engineer,Tier 3,8.3,0,5.5,9.9,On-campus,27.27
+Female,MECH,8.63,0,83.56,"C++, CSS, Python",Google Cloud,Web Dev,QA Engineer,Tier 2,9.8,2,5.7,6.6,Off-campus,30.2
+Male,EEE,7.27,1,90.32,"SQL, DL, AWS",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,8.0,0,9.4,7.6,PPO,30.62
+Male,ECE,8.35,1,83.74,"SQL, Java, CSS",DataCamp DS,Cybersecurity,SDE,Tier 3,8.1,0,6.8,8.7,On-campus,27.73
+Male,CSE,8.56,2,86.13,"Python, DSA, ML",DataCamp DS,Web Dev,QA Engineer,Tier 3,8.0,1,6.4,8.4,Off-campus,28.06
+Female,CIVIL,8.2,0,86.17,"C++, AWS",Coursera ML,AI/ML,Data Scientist,Tier 1,6.8,0,8.3,9.8,Off-campus,39.79
+Female,ECE,7.2,0,87.92,"Java, CSS",Google Cloud,Web Dev,Business Analyst,Tier 2,8.7,0,9.5,4.7,PPO,31.55
+Female,ECE,7.78,1,88.91,"C++, DL, HTML",None,IoT,SDE,Tier 1,7.4,1,4.2,7.5,Off-campus,39.16
+Male,CSE,7.48,0,83.78,"Python, DSA, SQL, DL",Google Cloud,Cybersecurity,Business Analyst,Tier 1,7.3,0,6.7,8.2,On-campus,34.72
+Male,ECE,6.87,0,78.62,"Python, Java, C++, CSS",AWS Certified,Data Analytics,SDE,Tier 3,7.4,5,7.7,9.3,On-campus,31.32
+Female,CIVIL,7.73,1,76.47,"DSA, SQL, HTML",DataCamp DS,Web Dev,QA Engineer,Tier 2,7.4,0,5.9,9.2,Off-campus,28.57
+Female,IT,6.67,1,92.12,"Java, ML, DSA",DataCamp DS,Cybersecurity,QA Engineer,Tier 2,7.0,2,8.6,9.9,Off-campus,32.57
+Male,ECE,8.33,0,90.39,"Python, Java, ML, HTML",None,Cloud,DevOps Engineer,Tier 2,7.7,0,9.8,7.1,Off-campus,37.11
+Female,IT,7.17,2,89.55,"ML, C++",AWS Certified,AI/ML,SDE,Tier 2,7.4,0,9.7,9.0,Off-campus,37.74
+Female,CIVIL,7.64,1,90.68,"HTML, C++, CSS",Coursera ML,IoT,Data Scientist,Tier 1,7.3,2,5.6,6.6,On-campus,37.88
+Male,CSE,7.7,1,83.87,"C++, AWS, Python, Java",Google Cloud,Cybersecurity,QA Engineer,Tier 1,8.0,1,5.4,6.5,PPO,35.8
+Female,EEE,7.32,2,80.63,"DL, HTML, CSS",Coursera ML,Cloud,DevOps Engineer,Tier 2,7.6,5,9.7,5.5,On-campus,36.3
+Male,ECE,7.91,0,78.14,"ML, DL, SQL",AWS Certified,Web Dev,QA Engineer,Tier 1,6.9,0,6.8,8.9,Off-campus,36.25
+Male,EEE,7.17,1,77.37,"Java, ML",None,Web Dev,Business Analyst,Tier 2,6.7,5,5.2,9.9,Off-campus,35.49
+Male,CIVIL,8.11,0,93.49,"HTML, DL, C++",AWS Certified,Cloud,QA Engineer,Tier 1,7.6,4,8.2,5.5,On-campus,41.3
+Male,ECE,6.56,2,81.55,"C++, Java, ML",None,IoT,SDE,Tier 3,6.8,5,5.7,4.3,On-campus,21.57
+Male,IT,7.59,1,92.38,"CSS, AWS, DL, SQL",Coursera ML,Cloud,DevOps Engineer,Tier 3,6.7,1,5.6,8.9,Off-campus,26.48
+Male,MECH,8.86,0,83.69,"HTML, AWS",Coursera ML,AI/ML,SDE,Tier 2,6.7,1,9.3,7.7,On-campus,37.04
+Male,EEE,6.8,0,80.27,"C++, SQL",AWS Certified,Web Dev,Data Scientist,Tier 2,7.8,0,5.0,9.8,Off-campus,30.19
+Female,ECE,7.03,2,77.34,"DSA, Java",AWS Certified,Cloud,Data Scientist,Tier 1,8.7,2,4.4,5.5,On-campus,34.59
+Male,EEE,7.86,0,80.88,"Java, DL",DataCamp DS,Data Analytics,QA Engineer,Tier 2,7.8,1,5.6,4.4,Off-campus,30.49
+Male,ECE,7.63,0,94.93,"CSS, AWS",None,Data Analytics,DevOps Engineer,Tier 2,8.4,2,7.6,7.0,On-campus,33.69
+Female,CSE,7.75,1,77.41,"DL, Java, Python",DataCamp DS,Cloud,DevOps Engineer,Tier 1,7.4,4,4.7,4.5,Off-campus,32.67
+Female,IT,7.84,2,99.82,"ML, DL, SQL",Google Cloud,AI/ML,DevOps Engineer,Tier 2,7.6,2,6.8,5.6,PPO,34.68
+Female,EEE,7.94,0,79.12,"DL, CSS, Python",Google Cloud,Web Dev,DevOps Engineer,Tier 2,9.2,3,7.8,4.8,PPO,35.48
+Male,MECH,8.28,0,90.25,"C++, DL",AWS Certified,Data Analytics,QA Engineer,Tier 3,8.3,2,9.1,5.3,On-campus,30.56
+Female,MECH,7.79,0,83.98,"SQL, HTML, AWS",Coursera ML,Cloud,SDE,Tier 3,8.4,1,5.4,4.6,PPO,20.62
+Male,CIVIL,7.33,0,82.76,"ML, DSA, Python, AWS",Google Cloud,Cloud,QA Engineer,Tier 3,7.2,2,8.9,9.7,Off-campus,32.97
+Male,ECE,7.97,0,76.1,"Java, Python, DSA",Google Cloud,Cybersecurity,SDE,Tier 2,7.5,2,5.4,5.7,On-campus,31.07
+Male,EEE,8.83,1,84.31,"C++, Python",DataCamp DS,Cloud,Business Analyst,Tier 1,7.9,3,8.1,6.7,On-campus,34.81
+Male,CIVIL,7.41,0,76.89,"ML, Java, DSA",DataCamp DS,AI/ML,Business Analyst,Tier 3,6.9,3,6.6,9.4,Off-campus,29.35
+Female,EEE,6.82,0,73.23,"Python, AWS",Google Cloud,Data Analytics,SDE,Tier 2,5.1,0,4.7,8.1,Off-campus,27.34
+Female,ECE,8.27,0,85.84,"Python, C++, Java",AWS Certified,Cybersecurity,QA Engineer,Tier 3,7.9,1,8.3,7.7,Off-campus,29.99
+Male,MECH,7.42,0,80.55,"Java, HTML",DataCamp DS,Data Analytics,Data Scientist,Tier 1,8.5,0,5.3,8.2,On-campus,33.99
+Male,CSE,5.98,1,96.79,"C++, SQL, AWS",Google Cloud,Data Analytics,QA Engineer,Tier 1,7.6,3,5.1,9.0,Off-campus,35.58
+Male,MECH,8.09,0,92.0,"SQL, DL, Java, Python",Coursera ML,AI/ML,Data Scientist,Tier 1,6.9,2,6.1,9.3,PPO,40.85
+Female,CIVIL,7.13,0,96.88,"CSS, AWS, ML, HTML",DataCamp DS,Cloud,QA Engineer,Tier 1,7.2,3,7.9,7.9,On-campus,38.83
+Male,IT,7.44,2,80.23,"Python, AWS, SQL, DL",Google Cloud,AI/ML,DevOps Engineer,Tier 1,5.5,4,5.4,9.3,Off-campus,38.66
+Male,CSE,7.73,1,85.95,"DL, AWS, C++, CSS",None,Cloud,DevOps Engineer,Tier 1,7.2,2,5.1,7.2,On-campus,33.42
+Female,CIVIL,7.63,1,66.66,"DSA, AWS",DataCamp DS,Cybersecurity,Business Analyst,Tier 2,6.4,0,4.1,5.7,PPO,28.03
+Female,ECE,8.0,4,83.03,"ML, Java, Python",None,AI/ML,Business Analyst,Tier 3,6.8,2,6.8,9.3,PPO,29.03
+Male,CSE,7.2,0,85.69,"HTML, DSA",DataCamp DS,AI/ML,SDE,Tier 1,6.3,4,6.6,7.2,Off-campus,37.96
+Female,CIVIL,7.86,1,86.08,"ML, SQL, DL",DataCamp DS,IoT,Data Scientist,Tier 3,6.2,3,5.4,9.4,On-campus,27.0
+Female,ECE,7.32,1,84.7,"Java, DSA, C++",None,Web Dev,DevOps Engineer,Tier 3,6.5,1,4.3,4.2,Off-campus,22.23
+Male,MECH,8.02,2,85.47,"Python, ML, CSS, SQL",AWS Certified,AI/ML,QA Engineer,Tier 2,8.1,5,6.6,6.4,On-campus,27.99
+Female,IT,7.93,2,66.01,"C++, DSA, Python, ML",Google Cloud,IoT,SDE,Tier 1,7.0,1,8.7,9.7,Off-campus,39.07
+Male,ECE,6.85,0,86.79,"SQL, AWS",AWS Certified,Web Dev,QA Engineer,Tier 1,6.4,1,8.3,5.5,Off-campus,38.42
+Female,EEE,8.26,0,88.38,"SQL, DSA, DL, Python",AWS Certified,Cloud,DevOps Engineer,Tier 2,8.3,3,9.2,9.6,On-campus,34.78
+Male,ECE,7.12,1,94.37,"CSS, HTML, DSA",Google Cloud,Cloud,DevOps Engineer,Tier 2,7.6,1,4.1,9.7,On-campus,28.78
+Male,ECE,8.07,1,87.58,"Python, SQL, AWS, ML",Coursera ML,Cloud,DevOps Engineer,Tier 2,5.1,4,9.8,9.3,PPO,38.38
+Male,IT,7.76,1,84.08,"DL, Java",AWS Certified,IoT,DevOps Engineer,Tier 2,8.5,3,6.0,7.4,PPO,30.7
+Female,EEE,8.79,1,92.73,"DL, HTML, DSA",AWS Certified,IoT,QA Engineer,Tier 2,7.6,1,9.9,7.9,On-campus,36.73
+Male,CIVIL,7.34,0,68.5,"DSA, Python, C++, ML",AWS Certified,Web Dev,SDE,Tier 3,8.3,5,5.5,9.2,PPO,28.72
+Female,CIVIL,7.26,0,81.4,"HTML, DSA, CSS",Coursera ML,Cloud,DevOps Engineer,Tier 2,7.3,0,6.8,8.7,PPO,34.86
+Male,ECE,7.49,0,79.64,"C++, Java, DSA",DataCamp DS,Data Analytics,Business Analyst,Tier 1,9.1,3,6.1,7.8,On-campus,35.98
+Male,EEE,7.29,2,84.76,"ML, DL, HTML",None,AI/ML,SDE,Tier 1,7.1,3,6.1,9.9,On-campus,37.31
+Female,EEE,8.06,1,69.61,"DL, Java, AWS",None,IoT,Business Analyst,Tier 2,4.9,2,9.1,8.1,On-campus,34.45
+Male,IT,6.37,3,94.24,"SQL, Java, Python, HTML",Coursera ML,IoT,QA Engineer,Tier 2,6.6,1,8.5,9.9,Off-campus,30.96
+Male,MECH,6.76,1,83.25,"ML, Python",AWS Certified,IoT,DevOps Engineer,Tier 2,8.0,0,10.0,4.3,On-campus,34.87
+Female,CIVIL,6.75,1,87.23,"DL, DSA, ML",None,Web Dev,SDE,Tier 2,7.7,5,7.7,4.8,On-campus,34.73
+Male,IT,8.17,1,86.56,"C++, Python",Coursera ML,Cloud,DevOps Engineer,Tier 2,7.4,4,6.8,6.7,On-campus,35.17
+Male,CSE,8.7,1,93.84,"HTML, ML, C++, Python",Google Cloud,Data Analytics,DevOps Engineer,Tier 1,6.5,3,4.5,6.3,PPO,32.27
+Male,CIVIL,7.43,1,71.97,"HTML, ML",None,AI/ML,SDE,Tier 3,7.5,4,10.0,8.7,On-campus,31.5
+Male,IT,7.38,1,85.79,"AWS, CSS, DL, HTML",Google Cloud,AI/ML,DevOps Engineer,Tier 2,7.5,4,7.3,5.0,PPO,32.38
+Female,CIVIL,7.55,0,93.02,"AWS, Python, ML",AWS Certified,Cloud,DevOps Engineer,Tier 2,7.5,4,8.2,9.9,Off-campus,38.86
+Female,MECH,8.31,1,84.31,"C++, DL",None,Data Analytics,Data Scientist,Tier 2,8.0,2,6.4,5.9,On-campus,31.99
+Male,CSE,6.85,0,78.34,"SQL, C++",Coursera ML,Web Dev,Data Scientist,Tier 1,7.7,4,7.3,6.6,On-campus,38.85
+Female,MECH,7.67,0,80.77,"C++, ML",DataCamp DS,IoT,SDE,Tier 1,7.2,1,9.7,5.6,PPO,42.77
+Male,CSE,8.18,0,82.25,"DSA, SQL, AWS, C++",None,IoT,SDE,Tier 3,6.5,1,5.0,7.5,Off-campus,23.26
+Female,ECE,7.85,2,79.95,"CSS, DL, DSA, HTML",None,Cloud,DevOps Engineer,Tier 3,8.9,0,5.8,4.4,On-campus,23.83
+Male,IT,7.63,0,83.93,"DL, HTML, AWS, DSA",None,AI/ML,Business Analyst,Tier 3,9.5,0,4.9,4.9,Off-campus,26.66
+Male,CSE,8.2,0,95.56,"CSS, Java, C++, Python",None,IoT,SDE,Tier 3,9.2,5,8.8,8.5,Off-campus,33.04
+Male,MECH,5.61,0,80.82,"CSS, C++, Java, DL",Coursera ML,AI/ML,DevOps Engineer,Tier 1,8.2,4,4.4,5.1,On-campus,29.92
+Male,CIVIL,7.97,1,81.59,"DSA, Python, HTML, Java",Coursera ML,AI/ML,Business Analyst,Tier 3,5.8,4,4.5,5.4,Off-campus,21.7
+Male,CSE,7.04,0,88.22,"Java, CSS, HTML",DataCamp DS,Cloud,Data Scientist,Tier 2,5.7,2,5.8,8.8,Off-campus,29.38
+Male,IT,6.22,0,83.78,"DL, ML, DSA, SQL",Coursera ML,Cybersecurity,SDE,Tier 1,7.0,4,7.1,4.6,On-campus,36.69
+Female,CSE,7.86,0,75.7,"DL, Java",Coursera ML,Cybersecurity,DevOps Engineer,Tier 1,7.4,4,6.4,6.6,PPO,35.52
+Male,EEE,8.46,2,84.57,"SQL, DSA, Python, Java",AWS Certified,Cybersecurity,Data Scientist,Tier 1,7.4,4,4.3,4.1,On-campus,33.25
+Female,CIVIL,7.4,0,84.31,"HTML, ML, SQL",AWS Certified,Data Analytics,QA Engineer,Tier 2,7.7,3,9.7,6.1,Off-campus,35.03
+Male,IT,8.17,2,91.83,"Python, CSS, HTML",Google Cloud,Cloud,Data Scientist,Tier 1,6.1,3,9.7,8.2,On-campus,38.47
+Female,IT,8.63,0,78.19,"HTML, DL, C++, SQL",DataCamp DS,AI/ML,DevOps Engineer,Tier 2,9.1,2,5.7,4.5,PPO,30.87
+Female,ECE,8.42,0,91.88,"AWS, Python, Java, DL",AWS Certified,IoT,Business Analyst,Tier 3,9.0,2,8.4,9.3,Off-campus,32.82
+Female,MECH,8.65,1,84.32,"HTML, DL, C++, AWS",DataCamp DS,Data Analytics,QA Engineer,Tier 1,6.2,1,7.5,9.5,Off-campus,41.04
+Male,ECE,8.02,0,77.24,"SQL, Java, CSS",DataCamp DS,Cybersecurity,QA Engineer,Tier 2,5.6,2,5.4,4.6,PPO,26.82
+Male,IT,7.55,1,75.84,"HTML, C++, DL, ML",None,Web Dev,QA Engineer,Tier 1,7.4,5,5.6,9.9,PPO,37.01
+Female,CIVIL,6.38,1,98.54,"Java, AWS",DataCamp DS,Data Analytics,SDE,Tier 3,8.8,1,6.9,5.8,Off-campus,27.22
+Male,CSE,7.33,0,83.88,"SQL, Python, DSA",None,Data Analytics,DevOps Engineer,Tier 1,7.5,4,6.5,4.5,PPO,38.8
+Female,CSE,6.91,1,91.56,"Java, AWS, C++",Google Cloud,Cloud,QA Engineer,Tier 3,7.8,2,5.7,4.0,On-campus,23.55
+Male,CIVIL,9.02,2,73.04,"C++, DSA, Python",Google Cloud,IoT,Data Scientist,Tier 1,7.1,5,8.8,6.5,PPO,42.45
+Female,IT,7.38,1,100.0,"AWS, DSA, Java",Google Cloud,Data Analytics,Business Analyst,Tier 2,7.6,2,6.9,7.8,On-campus,32.5
+Female,CSE,7.59,1,91.25,"DL, CSS, SQL",None,IoT,DevOps Engineer,Tier 3,8.4,2,7.9,6.0,Off-campus,25.72
+Male,CSE,7.89,1,83.21,"SQL, HTML",None,Cloud,Data Scientist,Tier 1,7.9,1,5.1,9.0,Off-campus,38.29
+Female,CSE,7.53,0,82.86,"AWS, ML, C++",Google Cloud,Web Dev,SDE,Tier 3,8.1,1,7.2,8.3,Off-campus,30.73
+Male,MECH,8.69,2,90.14,"Java, SQL",None,AI/ML,QA Engineer,Tier 3,5.8,0,5.9,6.1,Off-campus,26.21
+Female,MECH,7.06,0,89.74,"SQL, CSS, Python, AWS",Coursera ML,AI/ML,Data Scientist,Tier 2,9.6,1,7.2,8.4,Off-campus,33.99
+Female,EEE,7.64,2,86.28,"Java, AWS, SQL, DSA",Coursera ML,Cybersecurity,DevOps Engineer,Tier 2,5.8,1,8.7,9.6,PPO,37.4
+Male,ECE,6.98,1,85.08,"C++, Java",None,Cybersecurity,Data Scientist,Tier 2,7.7,3,8.6,4.6,PPO,35.38
+Male,CIVIL,6.58,1,88.93,"Java, CSS, SQL, DSA",None,Web Dev,SDE,Tier 2,7.3,2,6.1,5.8,Off-campus,33.26
+Male,CIVIL,7.07,0,72.81,"HTML, Python, AWS",AWS Certified,AI/ML,Business Analyst,Tier 3,7.4,1,8.2,6.8,PPO,30.83
+Female,CIVIL,7.47,1,82.4,"Java, SQL, DL, Python",AWS Certified,Cybersecurity,QA Engineer,Tier 3,8.4,2,9.6,7.0,PPO,32.12
+Male,EEE,7.2,1,73.47,"Python, SQL, ML, CSS",DataCamp DS,IoT,DevOps Engineer,Tier 1,6.8,2,7.8,7.3,Off-campus,36.11
+Female,MECH,7.02,0,89.23,"Python, ML, C++",DataCamp DS,Data Analytics,QA Engineer,Tier 1,7.1,3,4.9,5.8,PPO,33.97
+Female,IT,6.52,0,80.27,"SQL, DSA",DataCamp DS,Cloud,QA Engineer,Tier 1,6.4,2,8.1,8.0,Off-campus,39.68
+Male,IT,7.44,1,74.0,"ML, C++, SQL, Java",Google Cloud,Cybersecurity,QA Engineer,Tier 2,8.6,5,4.6,7.9,Off-campus,32.51
+Male,EEE,6.45,2,79.44,"CSS, DSA, ML",Coursera ML,Web Dev,Data Scientist,Tier 3,7.8,1,9.2,7.5,Off-campus,33.4
+Female,IT,8.03,0,86.05,"SQL, DL, Python, C++",Google Cloud,AI/ML,Data Scientist,Tier 3,8.1,2,7.1,4.7,Off-campus,26.6
+Female,CIVIL,7.56,0,83.56,"DL, HTML, Java, CSS",None,Web Dev,Business Analyst,Tier 1,8.3,0,6.3,6.9,PPO,40.58
+Male,ECE,6.48,0,76.79,"DL, AWS, SQL",AWS Certified,Cloud,SDE,Tier 1,9.5,0,4.3,6.1,PPO,29.24
+Male,CSE,7.28,0,73.07,"Java, HTML",None,Cloud,DevOps Engineer,Tier 3,9.3,3,6.3,6.9,On-campus,28.38
+Male,MECH,6.97,0,85.52,"Python, SQL, DL",None,Web Dev,Data Scientist,Tier 2,7.8,5,9.4,9.5,On-campus,37.26
+Male,MECH,7.72,1,80.93,"ML, DL, AWS",AWS Certified,Cybersecurity,QA Engineer,Tier 1,7.7,1,4.1,6.9,Off-campus,29.41
+Male,EEE,8.44,0,83.19,"DSA, CSS",None,Cybersecurity,SDE,Tier 1,7.0,3,6.8,4.1,On-campus,35.59
+Female,MECH,6.19,0,83.88,"Python, SQL, ML, CSS",DataCamp DS,AI/ML,DevOps Engineer,Tier 3,8.2,0,9.6,6.6,PPO,27.48
+Female,CIVIL,7.58,1,88.01,"SQL, AWS, ML, Java",AWS Certified,IoT,DevOps Engineer,Tier 3,8.2,5,6.4,8.9,PPO,29.08
+Female,IT,7.39,1,90.93,"SQL, C++",None,AI/ML,DevOps Engineer,Tier 1,6.8,1,6.6,8.7,On-campus,37.77
+Female,CIVIL,7.97,2,86.03,"DSA, ML",DataCamp DS,Data Analytics,DevOps Engineer,Tier 1,8.2,2,7.5,7.1,On-campus,41.32
+Male,EEE,7.65,0,82.76,"HTML, AWS, CSS",DataCamp DS,IoT,Business Analyst,Tier 2,8.5,1,6.8,5.5,PPO,28.56
+Male,CIVIL,6.97,0,85.17,"DSA, HTML, DL",Coursera ML,Data Analytics,DevOps Engineer,Tier 2,6.4,4,5.0,6.8,On-campus,31.32
+Male,IT,7.28,0,82.63,"DL, AWS, ML, Python",DataCamp DS,AI/ML,SDE,Tier 2,7.7,1,4.1,7.4,PPO,28.55
+Female,ECE,6.94,2,73.5,"CSS, DL",Google Cloud,IoT,Data Scientist,Tier 2,7.4,2,7.7,10.0,PPO,37.64
+Female,EEE,8.25,1,92.64,"AWS, C++, CSS",AWS Certified,IoT,SDE,Tier 1,7.5,4,9.5,7.9,On-campus,42.24
+Male,ECE,7.51,0,91.32,"Java, SQL, DSA",AWS Certified,Data Analytics,QA Engineer,Tier 1,6.5,5,4.6,8.2,On-campus,32.83
+Male,CSE,8.83,1,98.92,"AWS, SQL, DL, Python",AWS Certified,Web Dev,Business Analyst,Tier 1,5.7,3,5.3,6.9,Off-campus,32.94
+Female,ECE,7.46,1,100.0,"CSS, DL, HTML",None,Cybersecurity,Business Analyst,Tier 2,6.7,5,6.2,6.1,Off-campus,28.9
+Female,CSE,7.0,0,76.77,"C++, DL, CSS",None,IoT,QA Engineer,Tier 1,6.6,1,8.9,8.9,Off-campus,41.98
+Male,CSE,6.44,1,82.65,"DSA, HTML, CSS, Python",Google Cloud,IoT,SDE,Tier 3,7.9,3,5.6,7.0,Off-campus,28.53
+Male,ECE,6.24,4,100.0,"Java, DL, DSA, SQL",DataCamp DS,Data Analytics,SDE,Tier 2,7.9,1,9.3,10.0,Off-campus,36.4
+Female,EEE,6.39,1,84.72,"AWS, C++",None,IoT,QA Engineer,Tier 3,7.8,0,4.3,6.7,PPO,23.71
+Male,IT,7.69,1,86.71,"C++, CSS, ML",DataCamp DS,Data Analytics,DevOps Engineer,Tier 2,6.1,0,9.6,4.4,On-campus,30.72
+Male,CIVIL,7.86,0,74.35,"CSS, SQL, AWS",DataCamp DS,Web Dev,DevOps Engineer,Tier 1,6.4,2,7.4,8.1,PPO,39.22
+Male,CIVIL,6.39,0,86.05,"C++, DSA",None,IoT,Data Scientist,Tier 2,6.9,5,8.0,4.3,Off-campus,33.8
+Female,IT,8.13,0,98.52,"Python, DL",None,Cloud,SDE,Tier 3,7.5,0,6.2,5.5,Off-campus,22.32
+Female,CSE,7.16,2,94.01,"CSS, AWS, C++",Google Cloud,AI/ML,SDE,Tier 2,7.2,4,8.7,6.1,On-campus,34.57
+Female,CSE,7.6,3,80.73,"AWS, CSS",Coursera ML,Web Dev,QA Engineer,Tier 3,7.8,4,5.0,8.4,PPO,27.93
+Female,EEE,8.63,1,82.23,"CSS, C++, ML, DSA",AWS Certified,Cloud,QA Engineer,Tier 1,8.5,1,4.3,7.0,Off-campus,28.5
+Female,MECH,8.13,1,77.08,"SQL, ML, HTML, Python",None,Web Dev,DevOps Engineer,Tier 3,6.5,3,6.4,4.2,Off-campus,27.78
+Female,ECE,7.31,2,79.04,"AWS, DL, C++, Java",None,Cybersecurity,SDE,Tier 1,6.5,4,9.1,7.7,Off-campus,42.2
+Female,CSE,6.88,0,71.63,"AWS, DL, ML, SQL",DataCamp DS,Web Dev,SDE,Tier 3,7.6,1,8.5,6.5,Off-campus,30.51
+Male,CIVIL,5.99,1,84.41,"CSS, AWS",Coursera ML,Web Dev,Business Analyst,Tier 1,7.4,3,7.1,9.5,PPO,38.33
+Male,EEE,7.0,1,95.57,"ML, DL, C++",None,Cybersecurity,Data Scientist,Tier 3,8.2,0,7.4,7.0,PPO,24.33
+Male,ECE,7.35,0,87.49,"DSA, DL, AWS",Coursera ML,IoT,Data Scientist,Tier 1,7.5,1,4.8,8.3,Off-campus,36.05
+Male,EEE,6.81,3,94.56,"DL, C++",AWS Certified,AI/ML,DevOps Engineer,Tier 1,9.2,3,9.0,5.3,PPO,40.03
+Male,ECE,7.41,1,92.51,"AWS, Python, C++, DL",DataCamp DS,Cloud,SDE,Tier 1,5.9,2,8.7,8.6,Off-campus,40.8
+Male,ECE,7.55,1,81.17,"AWS, DSA",Google Cloud,Data Analytics,Business Analyst,Tier 3,8.3,5,7.9,8.3,On-campus,33.43
+Male,IT,7.34,1,79.68,"DL, CSS, SQL, C++",AWS Certified,AI/ML,SDE,Tier 3,7.7,5,6.8,9.4,On-campus,31.55
+Female,CSE,7.04,0,79.95,"SQL, CSS, AWS, ML",Coursera ML,Web Dev,QA Engineer,Tier 1,6.1,2,9.8,4.2,On-campus,43.04
+Female,EEE,7.62,1,72.98,"SQL, Python, DL",Coursera ML,Data Analytics,DevOps Engineer,Tier 2,5.4,4,9.3,6.7,PPO,36.12
+Male,EEE,7.81,1,85.23,"CSS, Python, C++",AWS Certified,Cybersecurity,Data Scientist,Tier 1,6.4,5,7.9,8.1,Off-campus,39.1
+Male,IT,6.74,2,64.67,"ML, HTML",Coursera ML,AI/ML,SDE,Tier 2,8.7,3,6.2,4.6,On-campus,29.89
+Female,CIVIL,8.49,0,89.14,"SQL, CSS, HTML, DL",Google Cloud,IoT,DevOps Engineer,Tier 1,8.6,2,7.7,6.5,On-campus,40.22
+Male,CIVIL,7.43,0,85.5,"Python, SQL, Java, DSA",Google Cloud,Cloud,Data Scientist,Tier 3,7.4,4,7.5,9.7,PPO,32.95
+Male,CSE,7.51,2,88.3,"CSS, Python, DSA",Coursera ML,AI/ML,SDE,Tier 2,7.1,1,6.4,6.6,PPO,28.18
+Female,CSE,8.0,1,92.4,"Python, CSS",Coursera ML,AI/ML,Business Analyst,Tier 3,6.6,1,5.8,9.9,On-campus,27.59
+Male,MECH,7.66,1,86.39,"CSS, DL",Google Cloud,IoT,DevOps Engineer,Tier 2,7.3,3,6.4,4.3,Off-campus,33.48
+Female,IT,8.17,0,96.42,"ML, AWS",Coursera ML,Data Analytics,SDE,Tier 2,7.0,3,7.4,8.3,Off-campus,34.21
+Male,CIVIL,7.7,1,89.35,"ML, AWS, DL",None,Cybersecurity,Data Scientist,Tier 2,9.2,3,6.6,7.5,Off-campus,35.44
+Female,ECE,7.07,0,79.7,"HTML, DL",DataCamp DS,IoT,Data Scientist,Tier 2,6.3,5,5.6,7.0,On-campus,31.84
+Female,EEE,7.75,0,83.34,"Python, AWS",None,Cybersecurity,Business Analyst,Tier 3,7.9,3,8.6,9.8,PPO,34.61
+Female,CSE,6.7,0,69.17,"Java, SQL",Coursera ML,IoT,DevOps Engineer,Tier 2,9.3,2,7.2,4.8,Off-campus,30.21
+Male,EEE,7.58,1,78.68,"SQL, AWS",Coursera ML,AI/ML,DevOps Engineer,Tier 1,8.3,2,4.4,9.4,On-campus,34.28
+Female,EEE,7.48,1,82.33,"AWS, C++",DataCamp DS,Cybersecurity,SDE,Tier 1,6.4,4,6.2,8.1,On-campus,37.51
+Male,MECH,7.35,0,88.82,"ML, C++",Coursera ML,Data Analytics,Data Scientist,Tier 2,6.0,2,9.3,5.6,PPO,31.48
+Male,CIVIL,7.41,2,79.75,"Java, CSS",DataCamp DS,Data Analytics,Data Scientist,Tier 3,7.8,5,8.5,9.4,Off-campus,32.12
+Male,CSE,6.18,2,76.28,"CSS, AWS, SQL, HTML",Google Cloud,Cloud,Business Analyst,Tier 3,7.7,1,5.9,6.6,On-campus,25.45
+Male,EEE,7.12,1,71.79,"HTML, DL, C++",DataCamp DS,Cybersecurity,Business Analyst,Tier 2,8.7,4,9.6,8.9,Off-campus,42.44
+Female,CSE,7.56,0,80.83,"SQL, C++, DL",DataCamp DS,Cloud,DevOps Engineer,Tier 3,8.0,2,4.5,6.3,Off-campus,24.55
+Female,ECE,7.61,1,98.66,"ML, DL",None,IoT,Data Scientist,Tier 3,7.0,3,9.8,9.1,Off-campus,34.83
+Male,MECH,6.78,1,86.9,"AWS, ML",Coursera ML,Web Dev,SDE,Tier 3,6.9,2,5.5,7.8,On-campus,27.79
+Male,ECE,8.39,0,91.58,"DL, AWS",Google Cloud,Data Analytics,QA Engineer,Tier 2,6.2,0,4.1,4.8,Off-campus,24.26
+Female,CSE,6.89,1,78.7,"Java, DSA",AWS Certified,AI/ML,SDE,Tier 1,7.6,4,6.6,7.9,PPO,37.78
+Male,CSE,8.18,1,73.99,"C++, CSS, DL",DataCamp DS,Data Analytics,Business Analyst,Tier 1,6.1,5,6.2,5.1,On-campus,40.75
+Female,CIVIL,7.8,3,76.45,"SQL, DL",AWS Certified,Web Dev,SDE,Tier 1,8.4,2,7.2,6.5,On-campus,38.05
+Male,EEE,7.05,1,84.32,"CSS, AWS, DSA",Coursera ML,AI/ML,Data Scientist,Tier 1,8.1,2,8.8,5.0,Off-campus,41.3
+Male,EEE,8.74,0,71.04,"DSA, DL, AWS, ML",DataCamp DS,Cybersecurity,DevOps Engineer,Tier 1,8.1,5,9.1,4.1,Off-campus,42.56
+Female,ECE,6.66,0,77.95,"DSA, DL",AWS Certified,Cybersecurity,QA Engineer,Tier 3,6.2,1,6.4,5.3,Off-campus,21.46
+Male,MECH,8.14,0,80.9,"C++, Java, ML",None,Data Analytics,DevOps Engineer,Tier 3,7.4,3,6.6,7.2,On-campus,28.49
+Female,IT,8.2,1,75.75,"AWS, DL",AWS Certified,AI/ML,QA Engineer,Tier 3,7.1,3,4.9,6.9,PPO,25.31
+Male,EEE,7.03,1,70.13,"DL, HTML, AWS, ML",None,IoT,QA Engineer,Tier 2,7.6,1,4.3,7.0,PPO,28.86
+Male,CIVIL,8.47,1,87.03,"HTML, CSS",Google Cloud,AI/ML,Data Scientist,Tier 3,8.0,1,7.8,5.5,On-campus,26.78
+Male,ECE,7.32,1,85.32,"Python, Java, DSA, ML",Coursera ML,Cloud,Data Scientist,Tier 1,7.0,0,4.4,8.1,PPO,31.5
+Female,ECE,7.7,0,90.45,"CSS, HTML, C++, DL",AWS Certified,Web Dev,Business Analyst,Tier 3,7.0,5,8.4,8.2,Off-campus,30.54
+Male,IT,7.68,0,77.23,"DSA, Java",DataCamp DS,Cybersecurity,Business Analyst,Tier 1,8.2,4,7.2,6.1,On-campus,38.19
+Male,CIVIL,7.41,0,90.32,"Python, C++, SQL, ML",Coursera ML,Data Analytics,QA Engineer,Tier 3,6.4,3,5.2,9.3,PPO,28.84
+Male,MECH,8.07,3,95.71,"C++, AWS, SQL",AWS Certified,AI/ML,Business Analyst,Tier 1,6.8,1,7.2,7.9,On-campus,42.02
+Male,CIVIL,8.06,0,86.84,"ML, HTML",DataCamp DS,Cybersecurity,Data Scientist,Tier 3,7.5,1,5.1,8.3,PPO,28.58
+Female,MECH,6.28,2,80.73,"DSA, CSS, HTML, Java",DataCamp DS,Data Analytics,Business Analyst,Tier 1,8.4,5,6.6,5.7,On-campus,38.61
+Female,CIVIL,8.41,0,86.02,"Java, HTML",DataCamp DS,Cybersecurity,QA Engineer,Tier 1,6.5,4,8.8,4.0,PPO,37.0
+Male,CIVIL,6.34,1,80.4,"DSA, DL, CSS",DataCamp DS,Data Analytics,DevOps Engineer,Tier 2,9.3,1,6.8,9.2,On-campus,33.01
+Female,CSE,8.22,0,79.23,"DSA, DL, HTML",AWS Certified,Cybersecurity,SDE,Tier 3,6.1,0,4.9,8.9,On-campus,25.55
+Male,ECE,8.29,0,89.78,"C++, ML, DL, SQL",Google Cloud,IoT,Business Analyst,Tier 1,9.1,4,8.3,4.7,On-campus,38.46
+Male,CIVIL,6.74,2,84.03,"HTML, Java",None,Cloud,Data Scientist,Tier 3,8.7,0,5.1,6.2,On-campus,24.99
+Male,IT,7.21,1,93.44,"CSS, SQL, HTML",None,Web Dev,DevOps Engineer,Tier 1,6.1,2,8.4,8.0,On-campus,41.29
+Female,CIVIL,6.73,0,81.9,"Python, ML",None,Cybersecurity,Data Scientist,Tier 2,5.9,3,6.9,7.9,Off-campus,33.58
+Female,EEE,7.35,1,82.61,"DL, Python",Google Cloud,Web Dev,Business Analyst,Tier 2,8.2,1,6.7,9.2,On-campus,35.8
+Female,ECE,7.28,1,81.03,"DSA, Python",DataCamp DS,Cybersecurity,QA Engineer,Tier 2,7.1,4,9.1,4.8,On-campus,32.88
+Female,EEE,8.05,0,77.16,"SQL, C++",DataCamp DS,AI/ML,SDE,Tier 2,6.5,0,8.3,6.6,On-campus,35.56
+Female,ECE,8.42,0,90.7,"ML, AWS, SQL",Coursera ML,Cloud,SDE,Tier 1,9.3,3,4.2,4.6,PPO,31.96
+Female,EEE,8.48,0,100.0,"Python, C++, HTML, DL",None,IoT,DevOps Engineer,Tier 3,6.3,3,5.8,6.3,On-campus,23.89
+Female,CIVIL,7.11,0,82.32,"Java, HTML, C++, AWS",None,Cloud,SDE,Tier 2,6.8,1,9.2,4.1,Off-campus,34.31
+Female,CIVIL,7.35,0,80.24,"CSS, Python, DSA",DataCamp DS,Web Dev,QA Engineer,Tier 2,6.9,3,4.1,9.4,On-campus,32.5
+Female,CSE,6.32,1,79.78,"HTML, DSA",None,AI/ML,Data Scientist,Tier 2,4.7,1,7.3,7.2,PPO,32.31
+Male,IT,6.94,3,80.24,"AWS, CSS, DL, DSA",DataCamp DS,Data Analytics,QA Engineer,Tier 3,7.6,2,8.4,9.1,PPO,31.12
+Female,EEE,8.18,1,96.55,"C++, CSS, SQL, DSA",DataCamp DS,Cloud,DevOps Engineer,Tier 1,6.6,1,7.7,4.4,On-campus,37.28
+Female,MECH,8.63,0,79.97,"DSA, DL, ML, Java",DataCamp DS,IoT,DevOps Engineer,Tier 1,8.3,5,8.6,5.4,On-campus,41.09
+Female,CSE,6.64,0,80.9,"DL, AWS",AWS Certified,AI/ML,SDE,Tier 1,8.4,0,8.4,5.6,On-campus,35.95
+Female,EEE,7.09,2,76.32,"Java, HTML",AWS Certified,AI/ML,QA Engineer,Tier 1,7.7,5,8.2,6.3,On-campus,37.35
+Female,EEE,7.48,0,87.06,"C++, Python, SQL, ML",AWS Certified,Web Dev,Data Scientist,Tier 3,7.7,3,8.9,8.8,PPO,32.07
+Female,CSE,7.7,1,84.53,"HTML, CSS, DL",AWS Certified,IoT,QA Engineer,Tier 3,7.7,3,7.9,6.3,On-campus,29.25
+Female,CIVIL,6.93,1,77.04,"AWS, HTML, Python, DL",Google Cloud,AI/ML,Data Scientist,Tier 3,6.8,3,6.4,5.2,PPO,25.35
+Female,EEE,7.8,3,78.75,"HTML, SQL, ML",Coursera ML,AI/ML,Data Scientist,Tier 2,6.9,1,6.8,4.4,PPO,31.59
+Female,CIVIL,7.17,2,95.73,"SQL, DSA",Coursera ML,Data Analytics,QA Engineer,Tier 3,8.8,4,8.3,4.5,Off-campus,28.47
+Female,CSE,7.49,0,85.23,"DSA, ML, AWS, SQL",DataCamp DS,Web Dev,Business Analyst,Tier 1,8.2,1,9.3,8.6,PPO,43.42
+Female,CIVIL,7.88,0,85.71,"ML, HTML, Python, SQL",None,Web Dev,QA Engineer,Tier 3,7.7,0,5.6,6.7,On-campus,24.82
+Male,ECE,7.5,0,85.74,"ML, HTML, DSA, DL",AWS Certified,IoT,Data Scientist,Tier 2,8.1,1,6.1,8.4,On-campus,35.97
+Male,MECH,7.19,2,94.76,"ML, AWS, CSS",Coursera ML,AI/ML,DevOps Engineer,Tier 1,7.4,3,9.6,8.1,On-campus,42.69
+Female,EEE,7.42,0,77.68,"HTML, DSA, CSS, ML",Coursera ML,Data Analytics,DevOps Engineer,Tier 3,7.7,2,7.5,4.8,On-campus,31.68
+Female,IT,7.44,1,82.23,"DL, ML, SQL",AWS Certified,Cybersecurity,SDE,Tier 1,8.1,0,5.1,4.9,Off-campus,33.74
+Male,MECH,7.24,1,83.82,"CSS, HTML, SQL",Google Cloud,Cloud,DevOps Engineer,Tier 1,5.4,5,8.0,8.5,Off-campus,39.8

@@ -1,0 +1,114 @@
+{% extends "base2.html" %}
+{% block content %}
+<section class="container" style="padding: 120px 0;">
+    <div class="form-card">
+        <h1 class="form-title text-gradient">GPA Forecast</h1>
+
+        <form method="post" id="gpaForm">
+            {% csrf_token %}
+
+            <!-- Dropdown for target semester -->
+            <label for="targetSemester">Predict GPA for:</label>
+            <select name="target_semester" id="targetSemester" class="input-field" required>
+                <option value="">-- Select Semester --</option>
+                {% for sem in "2345678" %}
+                    <option value="{{ sem }}">Semester {{ sem }}</option>
+                {% endfor %}
+            </select>
+
+            <!-- Dynamic GPA input fields -->
+            <div id="gpaInputs"></div>
+
+            <button type="submit" class="btn btn-primary btn-large" style="width: 100%; margin-top: 1.5rem;">
+                Predict GPA
+            </button>
+        </form>
+
+        {% if prediction %}
+        <div class="result-card">
+            <h3 style="text-align: center;">Predicted GPA:</h3>
+            <p class="result-value">{{ prediction|floatformat:2 }}</p>
+        </div>
+        {% endif %}
+    </div>
+</section>
+
+<style>
+    .form-card {
+        max-width: 600px;
+        margin: auto;
+        background: var(--card);
+        border-radius: var(--border-radius);
+        padding: 2rem;
+        box-shadow: var(--shadow-card);
+    }
+
+    .form-title {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        text-align: center;
+    }
+
+    .input-field {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0 20px 0;
+        background: var(--muted);
+        border: 1px solid var(--border);
+        border-radius: var(--border-radius);
+        color: var(--foreground);
+        font-size: 14px;
+        transition: var(--transition);
+    }
+
+    .input-field:focus {
+        border-color: var(--primary);
+        box-shadow: var(--shadow-glow);
+        outline: none;
+    }
+
+    label {
+        color: var(--muted-foreground);
+        font-weight: 500;
+        margin-top: 0.5rem;
+        display: block;
+    }
+
+    .result-card {
+        margin-top: 2rem;
+        background: var(--muted);
+        padding: 1.5rem;
+        border-radius: var(--border-radius);
+        text-align: center;
+        box-shadow: var(--shadow-card);
+    }
+
+    .result-value {
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: var(--primary);
+    }
+</style>
+
+<script>
+    const targetSemesterSelect = document.getElementById("targetSemester");
+    const gpaInputsDiv = document.getElementById("gpaInputs");
+
+    targetSemesterSelect.addEventListener("change", function () {
+        gpaInputsDiv.innerHTML = "";
+        let targetSem = parseInt(this.value);
+
+        if (!isNaN(targetSem) && targetSem > 1) {
+            for (let i = 1; i < targetSem; i++) {
+                let wrapper = document.createElement("div");
+                wrapper.innerHTML = `
+                    <label>Semester ${i} GPA</label>
+                    <input type="number" step="0.01" name="sem${i}_gpa" required class="input-field">
+                `;
+                gpaInputsDiv.appendChild(wrapper);
+            }
+        }
+    });
+</script>
+{% endblock %}

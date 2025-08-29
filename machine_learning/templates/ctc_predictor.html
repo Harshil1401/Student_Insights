@@ -1,0 +1,202 @@
+{% extends "base2.html" %}
+
+{% block content %}
+
+<section class="container" style="padding: 120px 0;">
+    <div class="form-card">
+        <h1 class="form-title text-gradient">CTC Prediction</h1>
+
+        <form method="POST" action="{% url 'ctc_predictor' %}">
+            {% csrf_token %}
+
+            <!-- Gender -->
+            <label>Gender</label>
+            <select name="gender" class="input-field" required>
+                <option value="">Select</option>
+                <option>Male</option>
+                <option>Female</option>
+            </select>
+
+            <!-- Branch -->
+            <label>Branch</label>
+            <select name="branch" id="branch" class="input-field" required onchange="updateOptions()">
+                <option value="">Select Branch</option>
+                <option>IT</option>
+                <option>CSE</option>
+                <option>CIVIL</option>
+                <option>MECH</option>
+            </select>
+
+            <!-- Average GPA -->
+            <label>Average GPA</label>
+            <input type="number" step="0.01" name="avg_gpa" class="input-field" required>
+
+            <!-- Backlogs -->
+            <label>Backlogs</label>
+            <input type="number" name="backlogs" class="input-field" required>
+
+            <!-- Attendance -->
+            <label>Attendance (%)</label>
+            <input type="number" step="0.1" name="attendance" class="input-field" required>
+
+            <!-- Skills -->
+            <label>Skills</label>
+            <select name="skills" id="skills" class="input-field" multiple required></select>
+
+            <!-- Internship Domain -->
+            <label>Internship Domain</label>
+            <select name="internship_domain" id="internship_domain" class="input-field" required></select>
+
+            <!-- Job Role -->
+            <label>Job Role</label>
+            <select name="job_role" id="job_role" class="input-field" required></select>
+
+            <!-- Company Tier -->
+            <label>Company Tier</label>
+            <select name="company_tier" id="company_tier" class="input-field" required></select>
+
+            <!-- Certifications -->
+            <label>Certifications</label>
+            <select name="certifications" id="certifications" class="input-field" multiple required></select>
+
+            <!-- Hackathons -->
+            <label>Hackathons Participated</label>
+            <input type="number" name="hackathons" class="input-field" required>
+
+            <!-- Interview -->
+            <label>Interview Performance (1-10)</label>
+            <input type="number" name="interview_score" min="1" max="10" class="input-field" required>
+
+            <!-- Soft Skills -->
+            <label>Soft Skills Rating (1-10)</label>
+            <input type="number" name="soft_skills" min="1" max="10" class="input-field" required>
+
+            <!-- Offer Type -->
+            <label>Offer Type</label>
+            <select name="offer_type" class="input-field" required>
+                <option>Full-time</option>
+                <option>Internship</option>
+                <option>Contract</option>
+            </select>
+
+            <!-- Hidden English Score -->
+            <input type="hidden" name="english_score" value="7">
+
+            <button type="submit" class="btn btn-primary btn-large" style="width: 100%; margin-top: 1.5rem;">
+                Predict CTC
+            </button>
+        </form>
+    </div>
+</section>
+
+<style>
+    .nav-link {
+        color: var(--foreground);
+        font-weight: 500;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .nav-link:hover {
+        color: var(--primary);
+    }
+
+    .form-card {
+        max-width: 800px;
+        margin: auto;
+        background: var(--card);
+        border-radius: var(--border-radius);
+        padding: 2rem;
+        box-shadow: var(--shadow-card);
+    }
+
+    .form-title {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 1.5rem;
+        text-align: center;
+    }
+
+    .input-field {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0 20px 0;
+        background: var(--muted);
+        border: 1px solid var(--border);
+        border-radius: var(--border-radius);
+        color: var(--foreground);
+        font-size: 14px;
+        transition: var(--transition);
+    }
+
+    .input-field:focus {
+        border-color: var(--primary);
+        box-shadow: var(--shadow-glow);
+        outline: none;
+    }
+
+    .input-field option {
+        background: #1f2937;
+        color: white;
+    }
+
+    label {
+        color: var(--muted-foreground);
+        font-weight: 500;
+        margin-top: 0.5rem;
+        display: block;
+    }
+</style>
+
+<script>
+    const data = {
+        "IT": {
+            skills: ["AI", "AWS", "C++", "DL", "DSA", "Java", "ML", "Python", "SQL"],
+            domains: ["AI/ML", "Cybersecurity", "Data Science", "IoT", "Web Dev", "None"],
+            jobs: ["Business Analyst", "Data Scientist", "DevOps Engineer", "SDE", "Other"],
+            tiers: ["Tier 1", "Tier 2", "Tier 3"],
+            certs: ["AWS Certified", "Azure Certified", "CCNA", "Coursera ML", "DataCamp DS", "Google Cloud", "Oracle Certified", "Other"]
+        },
+        "CSE": {
+            skills: ["AI", "AWS", "C++", "DL", "DSA", "HTML", "Java", "ML", "Python", "SQL"],
+            domains: ["AI/ML", "Cybersecurity", "Data Science", "IoT", "Web Dev", "None"],
+            jobs: ["Business Analyst", "Data Scientist", "DevOps Engineer", "SDE", "Other"],
+            tiers: ["Tier 1", "Tier 2", "Tier 3"],
+            certs: ["AWS Certified", "Azure Certified", "CCNA", "Coursera ML", "DataCamp DS", "Google Cloud", "Oracle Certified", "Other"]
+        },
+        "CIVIL": {
+            skills: ["AutoCAD", "STAAD Pro", "Construction Management", "Surveying"],
+            domains: ["Structural", "Planning", "Project Management", "None"],
+            jobs: ["Site Engineer", "Project Manager", "Civil Designer", "Other"],
+            tiers: ["Tier 1", "Tier 2", "Tier 3"],
+            certs: ["AutoDesk Certified", "PMP", "RICS", "Other"]
+        },
+        "MECH": {
+            skills: ["AutoCAD", "SolidWorks", "Thermodynamics", "Manufacturing", "ANSYS"],
+            domains: ["Mechanical Design", "Manufacturing", "Robotics", "None"],
+            jobs: ["Mechanical Engineer", "Production Engineer", "Design Engineer", "Other"],
+            tiers: ["Tier 1", "Tier 2", "Tier 3"],
+            certs: ["SolidWorks Certified", "AutoDesk Certified", "Six Sigma", "Other"]
+        }
+    };
+
+    function updateOptions() {
+        const branch = document.getElementById("branch").value;
+        ["skills", "internship_domain", "job_role", "company_tier", "certifications"].forEach(id => {
+            const select = document.getElementById(id);
+            select.innerHTML = "";
+            if (branch && data[branch]) {
+                data[branch][id === "internship_domain" ? "domains" :
+                    id === "job_role" ? "jobs" :
+                        id === "company_tier" ? "tiers" :
+                            id === "certifications" ? "certs" : id].forEach(opt => {
+                                const option = document.createElement("option");
+                                option.value = opt;
+                                option.textContent = opt;
+                                select.appendChild(option);
+                            });
+            }
+        });
+    }
+</script>
+{% endblock content %}
